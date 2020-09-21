@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Painel de controle';
+$_['heading_title'] = 'Panel de control';
 
 // Error
-$_['error_install'] = 'Atenção: A pasta install não foi excluída! Para manter a segurança de sua loja, exclua a pasta install.';
+$_['error_install'] = 'Advertencia: la carpeta de instalación no fue borrada! Debe ser borrada por razones de seguridad.';

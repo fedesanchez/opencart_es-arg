@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']  = 'Administração';
+$_['heading_title']  = 'Administración';
 
 // Text
-$_['text_heading']   = 'Administração';
-$_['text_login']     = 'Digite seus dados de acesso.';
-$_['text_forgotten'] = 'Esqueceu sua senha?';
+$_['text_heading']   = 'Administración';
+$_['text_login']     = 'Ingrese sus credenciales de acceso.';
+$_['text_forgotten'] = 'Olvidaste tu contraseña?';
 
 // Entry
-$_['entry_username'] = 'Usuário';
-$_['entry_password'] = 'Senha';
+$_['entry_username'] = 'Usuario';
+$_['entry_password'] = 'Contraseña';
 
 // Button
-$_['button_login']   = 'Acessar';
+$_['button_login']   = 'Ingresar';
 
 // Error
-$_['error_login']    = 'Os dados de acesso não são válidos.';
-$_['error_token']    = 'O token de sessão é inválido. Tente acessar novamente.';
+$_['error_login']    = 'Los datos de acceso no son válidos.';
+$_['error_token']    = 'El token de sesión es inválido. Intente acceder nuevamente.';

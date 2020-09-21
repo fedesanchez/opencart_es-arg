@@ -1,47 +1,47 @@
 <?php
 // Heading
-$_['heading_title']          = 'Departamentos';
+$_['heading_title']          = 'Categorías';
 
 // Text
-$_['text_success']           = 'Departamento modificado com sucesso!';
-$_['text_list']              = 'Listando departamentos';
-$_['text_add']               = 'Novo departamento';
-$_['text_edit']              = 'Editando departamento';
-$_['text_default']           = 'Padrão';
-$_['text_keyword']           = 'Não utilize espaços, substitua os espaços por - (hífen), e certifique-se que a palavra é exclusiva em toda a loja.';
+$_['text_success']           = 'Categoría modificada con éxito!';
+$_['text_list']              = 'Listando categorías';
+$_['text_add']               = 'Nueva categoría';
+$_['text_edit']              = 'Editando categoría';
+$_['text_default']           = 'Default';
+$_['text_keyword']           = 'No usar espacios, reemplazar los espacios por - (guión), y asegurarse que la SEO URL es única.';
 
 // Column
-$_['column_name']            = 'Departamento';
-$_['column_sort_order']      = 'Posição';
-$_['column_action']          = 'Ação';
+$_['column_name']            = 'Nombre de categoría';
+$_['column_sort_order']      = 'Orden';
+$_['column_action']          = 'Acción';
 
 // Entry
-$_['entry_name']             = 'Departamento';
-$_['entry_description']      = 'Descrição';
+$_['entry_name']             = 'Categoría';
+$_['entry_description']      = 'Descripción';
 $_['entry_meta_title']       = 'Meta título';
-$_['entry_meta_keyword']     = 'Meta palavras-chave';
-$_['entry_meta_description'] = 'Meta descrição';
-$_['entry_store']            = 'Loja';
-$_['entry_keyword']          = 'URL amigável';
-$_['entry_parent']           = 'Departamento principal';
+$_['entry_meta_keyword']     = 'Meta palabras clave';
+$_['entry_meta_description'] = 'Meta descricción';
+$_['entry_store']            = 'Tiendas';
+$_['entry_keyword']          = 'SEO Palabra clave';
+$_['entry_parent']           = 'Categoría padre';
 $_['entry_filter']           = 'Filtros';
-$_['entry_image']            = 'Imagem';
-$_['entry_top']              = 'Exibir no topo';
-$_['entry_column']           = 'Colunas';
-$_['entry_sort_order']       = 'Posição';
-$_['entry_status']           = 'Situação';
-$_['entry_layout']           = 'Layout para este departamento';
+$_['entry_image']            = 'Imagen';
+$_['entry_top']              = 'Top';
+$_['entry_column']           = 'Columnas';
+$_['entry_sort_order']       = 'Orden';
+$_['entry_status']           = 'Estado';
+$_['entry_layout']           = 'Layout para esta categoría';
 
 // Help
 $_['help_filter']            = '(autocompletar)';
-$_['help_top']               = 'A exibição no topo será no menu superior da loja, e só funcionará para um departamento principal.';
-$_['help_column']            = 'O número de colunas para organizar os departamentos inferiores em até 3 níveis. Só funciona para um departamento principal.';
+$_['help_top']               = 'Mostrar en el menú de la barra superior. Solo funciona para las categorías principales.';
+$_['help_column']            = 'Número de columnas para organizar las categorías inferiores hasta 3 niveles. Solo funciona para una categoría principal.';
 
 // Error
-$_['error_warning']          = 'Atenção: Faltou você preencher alguma informação, verifique todos os campos.';
-$_['error_permission']       = 'Atenção: Você não tem permissão para modificar os departamentos!';
-$_['error_name']             = 'Departamento deve ter entre 2 e 255 caracteres!';
-$_['error_meta_title']       = 'Meta título deve ter entre 3 e 255 caracteres!';
-$_['error_keyword']          = 'A URL amigável já está em uso!';
-$_['error_unique']           = 'A URL amigável deve ser exclusiva!';
-$_['error_parent']           = 'O departamento principal que você escolheu não pode ser utilizado, pois ele é filho deste departamento!';
+$_['error_warning']          = 'Advertencia: Revisar los errores en el formulario, revisar todos los campos.';
+$_['error_permission']       = 'Advertencia: No tenés permisos para modificar las categorías!';
+$_['error_name']             = 'Categoría debe tener entre 2 y 255 caracteres!';
+$_['error_meta_title']       = 'Meta título debe tener entre 3 y 255 caracteres!';
+$_['error_keyword']          = 'Una SEO palabra clave ya está en uso!';
+$_['error_unique']           = 'Una SEO palabra clave debe ser exclusiva!';
+$_['error_parent']           = 'La categoría padre que elegiste no puede ser utilizada, porque es hija de esta misma categoría!';

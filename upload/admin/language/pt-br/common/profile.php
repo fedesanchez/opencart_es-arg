@@ -1,35 +1,33 @@
 <?php
 // Heading
-$_['heading_title']         = 'Meu perfil';
+$_['heading_title']         = 'Mi perfil';
 
 // Text
-$_['text_success']          = 'Perfil modificado com sucesso!';
-$_['text_edit']             = 'Editando perfil';
+$_['text_success']          = 'Perfil modificado con éxito!';
+$_['text_edit']             = 'Editar perfil';
 
 // Column
-$_['column_username']       = 'Usuário';
-$_['column_status']         = 'Situação';
-$_['column_date_added']     = 'Adiconado em';
-$_['column_action']         = 'Ação';
+$_['column_username']       = 'Usuario';
+$_['column_status']         = 'Estado';
+$_['column_date_added']     = 'Fecha';
+$_['column_action']         = 'Acción';
 
 // Entry
-$_['entry_username']        = 'Usuário';
-$_['entry_password']        = 'Senha';
-$_['entry_confirm']         = 'Repetir a senha';
-$_['entry_firstname']       = 'Nome';
-$_['entry_lastname']        = 'Sobrenome';
+$_['entry_username']        = 'Usuario';
+$_['entry_password']        = 'Contraseña';
+$_['entry_confirm']         = 'Repetir la contraseña';
+$_['entry_firstname']       = 'Nombre';
+$_['entry_lastname']        = 'Apellido';
 $_['entry_email']           = 'E-mail';
 $_['entry_image']           = 'Avatar';
 
 // Error
-$_['error_permission']      = 'Atenção: Você não tem permissão para modificar seu perfil!';
-$_['error_exists_username'] = 'Atenção: O usuário já está em uso!';
-$_['error_username_exists'] = 'Atenção: O usuário já está em uso!';
-$_['error_username']        = 'Usuário deve ter entre 3 e 20 caracteres!';
-$_['error_password']        = 'Senha deve ter entre 4 e 20 caracteres!';
-$_['error_confirm']         = 'Senha e repetida esta errada!';
-$_['error_firstname']       = 'Nome deve ter entre 1 e 32 caracteres!';
-$_['error_lastname']        = 'Sobrenome deve ter entre 1 e 32 caracteres!';
-$_['error_email']           = 'O e-mail não é válido!';
-$_['error_exists_username'] = 'Atenção: O e-mail já está em uso!';
-$_['error_email_exists']    = 'Atenção: O e-mail já está em uso!';
+$_['error_permission']      = 'Error: No tenés permisos para modificar el perfil!';
+$_['error_username_exists'] = 'Error: El usuario ya existe!';
+$_['error_username']        = 'Usuario debe tener entre 3 y 20 caracteres!';
+$_['error_password']        = 'Contraseña debe tener entre 4 y 20 caracteres!';
+$_['error_confirm']         = 'Contraseña no coincide!';
+$_['error_firstname']       = 'Nombre debe tener entre 1 y 32 caracteres!';
+$_['error_lastname']        = 'Apellido debe tener entre 1 y 32 caracteres!';
+$_['error_email']           = 'El e-mail no es válido!';
+$_['error_email_exists']    = 'Error: El e-mail ya está registrado!';

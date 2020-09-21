@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']   = 'Esqueceu sua senha?';
+$_['heading_title']   = 'Olvidaste tu contraseña?';
 
 // Text
-$_['text_forgotten']  = 'Esqueceu sua senha?';
-$_['text_your_email'] = 'Digite seu endereço de e-mail';
-$_['text_email']      = 'Após fornecer seu e-mail já cadastrado em nosso sistema, clique no botão Redefinir para receber no e-mail fornecido um link para que você possa redefinir sua senha.';
-$_['text_success']    = 'O e-mail com um link para redefinir sua senha foi enviado para seu endereço de e-mail.';
+$_['text_forgotten']  = 'Olvidaste tu contraseña?';
+$_['text_your_email'] = 'Tu dirección de e-mail';
+$_['text_email']      = 'Ingresar e-mail asociado con la cuenta. Click en enviar para que se te envíe un e-mail con un link para resetearla.';
+$_['text_success']    = 'El e-mail con un link para redefinir tu contraseña fue enviado a tu dirección.';
 
 // Entry
-$_['entry_email']     = 'E-mail cadastrado na loja:';
-$_['entry_password']  = 'Nova senha:';
-$_['entry_confirm']   = 'Repetir a senha:';
+$_['entry_email']     = 'E-mail:';
+$_['entry_password']  = 'Nueva contraseña:';
+$_['entry_confirm']   = 'Repetir contraseña:';
 
 // Error
-$_['error_email']     = 'Atenção: O endereço de e-mail fornecido não foi encontrado em nosso sistema, por favor tente novamente!';
-$_['error_password']  = 'A nova senha deve ter entre 4 e 20 caracteres!';
-$_['error_confirm']   = 'A senha repetida esta errada!';
+$_['error_email']     = 'Error: No se encontró ese e-mail en nuestro sistema, por favor intente nuevamente!';
+$_['error_password']  = 'La nnueva contraseña debe tener entre 4 y 20 caracteres!';
+$_['error_confirm']   = 'La contraseña repetida no coincide!';

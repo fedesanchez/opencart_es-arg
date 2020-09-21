@@ -1,46 +1,46 @@
 <?php
 // Heading
-$_['heading_title']          = 'Páginas de informações';
+$_['heading_title']          = 'Páginas de información';
 
 // Text
-$_['text_success']           = 'Página de informações modificada com sucesso!';
-$_['text_list']              = 'Listando páginas de informações';
-$_['text_add']               = 'Nova página de informações';
-$_['text_edit']              = 'Editando página de informações';
-$_['text_default']           = 'Padrão';
-$_['text_keyword']           = 'Não utilize espaços, substitua os espaços por - (hífen), e certifique-se que a palavra é exclusiva em toda a loja.';
+$_['text_success']           = 'Página modificada con éxito!';
+$_['text_list']              = 'Lista de páginas';
+$_['text_add']               = 'Nueva página';
+$_['text_edit']              = 'Editando página';
+$_['text_default']           = 'Default';
+$_['text_keyword']           = 'No usar espacios, reemplazar los espacios por - (guión), y revisar que la SEO URL sea globalmente única.';
 
 // Column
 $_['column_title']           = 'Título da página';
-$_['column_sort_order']      = 'Posição';
-$_['column_action']          = 'Ação';
+$_['column_sort_order']      = 'Orden';
+$_['column_action']          = 'Acción';
 
 // Entry
 $_['entry_title']            = 'Título da página';
-$_['entry_description']      = 'Conteúdo';
+$_['entry_description']      = 'Contenido';
 $_['entry_meta_title']       = 'Meta títulos';
-$_['entry_meta_keyword']     = 'Meta palavras-chave';
-$_['entry_meta_description'] = 'Meta descrição';
-$_['entry_store']            = 'Loja';
-$_['entry_keyword']          = 'URL amigável';
-$_['entry_bottom']           = 'Exibir no rodapé';
-$_['entry_status']           = 'Situação';
-$_['entry_sort_order']       = 'Posição';
-$_['entry_layout']           = 'Layout para estas página de informação';
+$_['entry_meta_keyword']     = 'Meta palabras clave';
+$_['entry_meta_description'] = 'Meta descripción';
+$_['entry_store']            = 'Tienda';
+$_['entry_keyword']          = 'SEO Keyword';
+$_['entry_bottom']           = 'Mostrar en el footer';
+$_['entry_status']           = 'Estado';
+$_['entry_sort_order']       = 'Orden';
+$_['entry_layout']           = 'Layout para esta página';
 
 // Help
-$_['help_bottom']            = 'Exibe o link para a página de informações no rodapé da loja.';
+$_['help_bottom']            = 'Mostrar el link para la página en el footer.';
 
 // Error
-$_['error_warning']          = 'Atenção: Faltou você preencher alguma informação, verifique todos os campos.';
-$_['error_permission']       = 'Atenção: Você não tem permissão para modificar as páginas de informações!';
-$_['error_title']            = 'Título da página deve ter entre 3 e 64 caracteres!';
-$_['error_description']      = 'Conteúdo deve possuir pelo menos 3 caracteres!';
-$_['error_meta_title']       = 'Meta título deve ter entre 3 e 255 caracteres!';
-$_['error_keyword']          = 'URL amigável já está em uso!';
-$_['error_unique']           = 'A URL amigável deve ser exclusiva!';
-$_['error_account']          = 'Atenção: Esta página de informações não pode ser excluída, pois ela está definida como os termos para conta de clientes!';
-$_['error_checkout']         = 'Atenção: Esta página de informações não pode ser excluída, pois ela está definida como os termos para finalização do pedido!';
-$_['error_affiliate']        = 'Atenção: Esta página de informações não pode ser excluída, pois ela está definida como os termos para conta de afiliados!';
-$_['error_return']           = 'Atenção: Esta página de informações não pode ser excluída, pois ela está definida como os termos para devolução!';
-$_['error_store']            = 'Atenção: Esta página de informações não pode ser excluída, pois está vinculada a %s lojas!';
+$_['error_warning']          = 'Advertencia: falta completar datos, revisar todos los campos.';
+$_['error_permission']       = 'Advertencia: No tenés permisos para modificar las páginas de información!';
+$_['error_title']            = 'Título de página debe tener entre 3 y 64 caracteres!';
+$_['error_description']      = 'Contenido debe tener por lo menos 3 caracteres!';
+$_['error_meta_title']       = 'Meta título debe tener entre 3 y 255 caracteres!';
+$_['error_keyword']          = 'SEO keyword ya existe!';
+$_['error_unique']           = 'Una SEO keyword debe ser única!';
+$_['error_account']          = 'Advertencia: Esta página no puede ser borrada, porque es usada como los términos para cuenta de clientes!';
+$_['error_checkout']         = 'Advertencia: Esta página no puede ser borrada, porque es usada como los términos para checkout de pedido!';
+$_['error_affiliate']        = 'Advertencia: Esta página no puede ser borrada, porque es usada como los términos para cuenta de afiliados!';
+$_['error_return']           = 'Advertencia: Esta página no puede ser borrada, porque es usada como los términos para devolución!';
+$_['error_store']            = 'Advertencia: Esta página no puede ser borrada, porque es usada por %s tiendas!';
