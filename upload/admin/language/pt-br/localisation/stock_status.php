@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Situações de estoque';
+$_['heading_title']    = 'Estados de Stock';
 
 // Text
-$_['text_success']     = 'Situação de estoque modificada com sucesso!';
-$_['text_list']        = 'Listando situações de estoque';
-$_['text_add']         = 'Nova situação de estoque';
-$_['text_edit']        = 'Editando situação de estoque';
+$_['text_success']     = 'Genial: Usted ha modificado el estado de stock!';
+$_['text_list']        = 'Tipos de stock';
+$_['text_add']         = 'A&ntilde;adir tipo de  Stock';
+$_['text_edit']        = 'Editar estado';
 
 // Column
-$_['column_name']      = 'Situação de estoque';
-$_['column_action']    = 'Ação';
+$_['column_name']      = 'Tipos de estado';
+$_['column_action']    = 'Acci&oacute;n';
 
 // Entry
-$_['entry_name']       = 'Situação de estoque';
+$_['entry_name']       = 'Tipos de stock';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as situações de estoque!';
-$_['error_name']       = 'Situação de estoque deve ter entre 3 e 32 caracteres!';
-$_['error_product']    = 'Atenção: Esta situação de estoque não pode ser excluída, pois está vinculada a %s produtos!';
+$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar los estados de valores ';
+$_['error_name'] = 'Nombre de archivo de estado debe tener entre 3 y 32 caracteres!';
+$_['error_product'] = 'Advertencia: Esta condici&oacute;n de la poblaci&oacute;n no puede ser eliminado, ya que se asigna actualmente a los productos de% s';

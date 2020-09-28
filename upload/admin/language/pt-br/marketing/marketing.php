@@ -1,35 +1,33 @@
 <?php
 // Heading
-$_['heading_title']     = 'Campanhas de marketing';
+$_['heading_title']     = 'Campa&ntilde;as Marketing';
 
 // Text
-$_['text_success']      = 'Campanha modificada com sucesso!';
-$_['text_list']         = 'Listando campanhas';
-$_['text_add']          = 'Nova campanha';
-$_['text_edit']         = 'Editando campanha';
-$_['text_filter']       = 'Filtros';
+$_['text_success'] = 'Genial: Ha modificado campa&ntilde;a de marketing';
+$_['text_list'] = 'Lista de campa&ntilde;as';
+$_['text_add'] = 'A&ntilde;adir Campa&ntilde;a';
+$_['text_edit'] = 'Editar Campa&ntilde;a';
 
 // Column
-$_['column_name']       = 'Campanha';
-$_['column_code']       = 'Código de rastreio';
-$_['column_clicks']     = 'Cliques';
-$_['column_orders']     = 'Pedidos';
-$_['column_date_added'] = 'Cadastro';
-$_['column_action']     = 'Ação';
+$_['column_name'] = 'Nombre de la campa&ntilde;a';
+$_['column_code'] = 'C&oacute;digo';
+$_['column_clicks'] = 'Clicks';
+$_['column_orders'] = 'Pedidos';
+$_['column_date_added'] = 'Fecha Alta';
+$_['column_action'] = 'Acci&oacute;n';
 
 // Entry
-$_['entry_name']        = 'Campanha';
-$_['entry_description'] = 'Informações';
-$_['entry_code']        = 'Código de rastreio';
-$_['entry_example']     = 'URLs';
-$_['entry_date_added']  = 'Cadastro';
+$_['entry_name'] = 'Nombre de la campa&ntilde;a';
+$_['entry_description'] = 'Campa&ntilde;a Descripci&oacute;n';
+$_['entry_code'] = 'C&oacute;digo de seguimiento';
+$_['entry_example'] = 'Ejemplos';
+$_['entry_date_added'] = 'Fecha Alta';
 
 // Help
-$_['help_code']         = 'Código de rastreamento que será utilizado nas campanhas de marketing';
-$_['help_example']      = 'Através das URLs geradas automaticamente, a loja pode rastrear a origem dos clientes baseada nas campanhas de marketing';
+$_['help_code'] = 'El c&oacute;digo de seguimiento que se utilizar&aacute; para las campa&ntilde;as de marketing de la pista.';
+$_['help_example'] = 'De modo que el sistema pueda rastrear referrals necesitas a&ntilde;adir el c&oacute;digo de seguimiento al final de la URL con enlaces a su sitio.';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar as campanhas de marketing!';
-$_['error_name']        = 'Campanha deve ter entre 1 e 32 caracteres!';
-$_['error_code']        = 'Código de rastreio é obrigatório!';
-$_['error_exists']      = 'Código de rastrei já está em uso!';
+$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar el seguimiento de la comercializaci&oacute;n';
+$_['error_name'] = 'Campa&ntilde;a debe estar entre 1 y 32 caracteres!';
+$_['error_code'] = 'c&oacute;digo de seguimiento requerido!';

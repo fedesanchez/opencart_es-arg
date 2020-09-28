@@ -1,63 +1,64 @@
 <?php
 // Heading
-$_['heading_title']        = 'Devoluções';
+$_['heading_title']       = 'Devoluciones de Producto';
+
 
 // Text
-$_['text_success']         = 'Devolução modificada com sucesso!';
-$_['text_list']            = 'Listando devoluções';
-$_['text_add']             = 'Nova devolução';
-$_['text_edit']            = 'Editando devolução';
-$_['text_opened']          = 'Aberta';
-$_['text_unopened']        = 'Fechada';
-$_['text_order']           = 'Informações do pedido';
-$_['text_product']         = 'Informações do produto';
-$_['text_history']         = 'Histórico da devolução';
-$_['text_history_add']     = 'Adicionar histórico';
+$_['text_success'] = 'Genial: Ha modificado la devoluci&oacute;n!';
+$_['text_list'] = 'Lista de producto Devuelto';
+$_['text_add'] = 'A&ntilde;adir Retorno producto';
+$_['text_edit'] = 'Editar Devoluci&oacute;n del producto';
+$_['text_opened'] = 'Abierto';
+$_['text_unopened'] = 'Sin abrir';
+$_['text_order'] = 'Solicitar informaci&oacute;n';
+$_['text_product'] = 'Informaci&oacute;n & amp del producto; Raz&oacute;n para devolver';
+$_['text_history'] = 'Historial';
+$_['text_history_add']     = 'Agregar al historial';
 
-// Column
-$_['column_return_id']     = 'Devolução nº';
-$_['column_order_id']      = 'Pedido nº';
-$_['column_customer']      = 'Cliente';
-$_['column_product']       = 'Produto';
-$_['column_model']         = 'Modelo';
-$_['column_status']        = 'Situação';
-$_['column_date_added']    = 'Data';
-$_['column_date_modified'] = 'Modificação';
-$_['column_comment']       = 'Comentário';
-$_['column_notify']        = 'Cliente notificado?';
-$_['column_action']        = 'Ação';
+// Columna
+$_['column_return_id'] = 'Devoluci&oacute;n ID';
+$_['column_order_id'] = 'Pedido ID';
+$_['column_customer'] = 'Cliente';
+$_['column_product'] = 'Producto';
+$_['column_model'] = 'Modelo';
+$_['column_status'] = 'Estado';
+$_['column_date_added'] = 'Fecha Alta';
+$_['column_date_modified'] = 'Fecha de modificaci&oacute;n';
+$_['column_comment'] = 'Comentario';
+$_['column_notify'] = 'Cliente notificado';
+$_['column_action'] = 'Acci&oacute;n';
 
-// Entry
-$_['entry_customer']       = 'Cliente';
-$_['entry_order_id']       = 'Pedido nº';
-$_['entry_date_ordered']   = 'Data do pedido';
-$_['entry_firstname']      = 'Nome';
-$_['entry_lastname']       = 'Sobrenome';
-$_['entry_email']          = 'E-mail';
-$_['entry_telephone']      = 'Telefone';
-$_['entry_product']        = 'Produto';
-$_['entry_model']          = 'Modelo';
-$_['entry_quantity']       = 'Quantidade';
-$_['entry_opened']         = 'Embalagem';
-$_['entry_comment']        = 'Comentário';
-$_['entry_return_reason']  = 'Motivo';
-$_['entry_return_action']  = 'Solução';
-$_['entry_return_status']  = 'Situação';
-$_['entry_notify']         = 'Notificar cliente?';
-$_['entry_return_id']      = 'Devolução nº';
-$_['entry_date_added']     = 'Cadastro';
-$_['entry_date_modified']  = 'Modificação';
+// Entrada
+$_['entry_customer'] = 'Cliente';
+$_['entry_order_id'] = 'Pedido ID';
+$_['entry_date_ordered'] = 'Fecha Pedido';
+$_['entry_firstname'] = 'Nombre';
+$_['entry_lastname'] = 'Apellido';
+$_['entry_email'] = 'E-Mail';
+$_['entry_telephone'] = 'Tel&eacute;fono';
+$_['entry_product'] = 'Producto';
+$_['entry_model'] = 'Modelo';
+$_['entry_quantity'] = 'Cantidad';
+$_['entry_opened'] = 'Abierto';
+$_['entry_comment'] = 'Comentario';
+$_['entry_return_reason'] = 'Razones de Devoluciones';
+$_['entry_return_action'] = 'Acci&oacute;n De Devoluci&oacute;n';
+$_['entry_return_status'] = 'Estado de Devoluciones';
+$_['entry_notify'] = 'Notificar al cliente';
+$_['entry_return_id'] = 'Devoluci&oacute;n ID';
+$_['entry_date_added'] = 'Fecha Alta';
+$_['entry_date_modified'] = 'Fecha de modificaci&oacute;n';
 
-// Help
-$_['help_product']         = '(autocompletar)';
+// Ayuda
+$_['help_product'] = '(Autocompletar)';
 
 // Error
-$_['error_warning']        = 'Atenção: Faltou você preencher alguma informação, verifique todos os campos.';
-$_['error_permission']     = 'Atenção: Você não tem permissão para modificar as devoluções!';
-$_['error_order_id']       = 'O número do é obrigatório!';
-$_['error_firstname']      = 'O nome deve ter entre 1 e 32 caracteres!';
-$_['error_lastname']       = 'O sobrenome deve ter entre 1 e 32 caracteres!';
-$_['error_email']          = 'O e-mail não é válido!';
-$_['error_telephone']      = 'O telefone deve ter entre 10 e 11 números!';
-$_['error_product']        = 'O produto deve ter entre 3 e 255 caracteres!';
-$_['error_model']          = 'O modelo deve ter entre 3 e 64 caracteres!';
+$_['error_warning'] = 'Advertencia: Por favor, consulte el formulario cuidadosamente de errores';
+$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar las devoluciones!';
+$_['error_order_id'] = 'Pedido requiere identificaci&oacute;n!';
+$_['error_firstname'] = 'Nombre debe estar entre 1 y 32 caracteres!';
+$_['error_lastname'] = 'Apellido debe estar entre 1 y 32 caracteres!';
+$_['error_email'] = 'E-Mail no parece ser v&aacute;lida!';
+$_['error_telephone'] = 'Tel&eacute;fono debe tener entre 3 y 32 caracteres!';
+$_['error_product'] = 'Nombre del producto debe ser mayor que 3 y menos de 255 caracteres!';
+$_['error_model'] = 'Modelo Producto debe ser superior a 3 y menos de 64 caracteres!';

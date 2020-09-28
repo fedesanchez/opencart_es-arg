@@ -1,30 +1,32 @@
 <?php
 // Heading
-$_['heading_title']    = 'Editor de URL amigável';
+$_['heading_title']    = 'SEO URL';
 
 // Text
-$_['text_success']     = 'URL amigável editada com sucesso!';
-$_['text_list']        = 'Listando URLs amigáveis';
-$_['text_add']         = 'Adicionando URL amigável';
-$_['text_edit']        = 'Editando URL amigável';
+$_['text_success']     = 'URL editada co éxito!';
+$_['text_list']        = 'Lista de SEO URLs';
+$_['text_add']         = 'Añadir SEO URL';
+$_['text_edit']        = 'Editar SEO URL';
 $_['text_filter']      = 'Filtrar';
-$_['text_default']     = 'Padrão';
+$_['text_default']     = 'Default';
 
 // Column
+$_['column_key']           = 'Key';
+$_['column_value']         = 'Value';
 $_['column_query']     = 'Query';
 $_['column_keyword']   = 'URL amigável';
-$_['column_store']     = 'Loja';
+$_['column_store']     = 'Tienda';
 $_['column_language']  = 'Idioma';
-$_['column_action']    = 'Ação';
+$_['column_action']    = 'Acci&oacute;n';
 
 // Entry
 $_['entry_query']      = 'Query';
-$_['entry_keyword']    = 'URL amigável';
-$_['entry_store']      = 'Loja';
+$_['entry_keyword']    = 'SEO URL';
+$_['entry_store']      = 'Tienda';
 $_['entry_language']   = 'Idioma';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para utilizar o Editor de URL amigável!';
-$_['error_query']      = 'A Query deve ter entre 3 e 64 caracteres!';
-$_['error_keyword']    = 'A URL amigável deve ter entre 3 e 64 caracteres!';
-$_['error_exists']     = 'A URL amigável já está em uso!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para utilizar el editor de SEO URLs!';
+$_['error_query']      = 'Query debe tener entre 3 y 64 caracteres!';
+$_['error_keyword']    = 'SEO URL debe tener entre 3 y 64 caracteres!';
+$_['error_exists']     = 'SEO URL ya está en uso!';

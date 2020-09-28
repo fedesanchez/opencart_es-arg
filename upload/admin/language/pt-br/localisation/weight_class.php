@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']    = 'Unidades de pesos';
+$_['heading_title'] = 'Unidades de Peso';
 
-// Text
-$_['text_success']     = 'Unidade de peso modificada com sucesso!';
-$_['text_list']        = 'Listando unidades de pesos';
-$_['text_add']         = 'Nova unidade de peso';
-$_['text_edit']        = 'Editando unidade de peso';
+// Texto
+$_['text_success'] = 'Genial: Ha modificado tipos de peso';
+$_['text_list'] = 'Unidades de Peso';
+$_['text_add'] = 'Agregar Unidad de Peso';
+$_['text_edit'] = 'Editar Unidad Peso';
 
-// Column
-$_['column_title']     = 'Unidade de peso';
-$_['column_unit']      = 'Unidade';
-$_['column_value']     = 'Valor';
-$_['column_action']    = 'Ação';
+// Columna
+$_['column_title'] = 'Tipos';
+$_['column_unit'] = 'Unidad de Peso';
+$_['column_value'] = 'Valor';
+$_['column_action'] = 'Acci&oacute;n';
 
-// Entry
-$_['entry_title']      = 'Unidade de peso';
-$_['entry_unit']       = 'Unidade';
-$_['entry_value']      = 'Valor';
+// Entrada
+$_['entry_title'] = 'Tipos';
+$_['entry_unit'] = 'Unidad de Peso';
+$_['entry_value'] = 'Valor';
 
-// Help
-$_['help_value']       = 'Definir em 1.00000, se for a sua unidade de peso padrão.';
+// Ayuda
+$_['help_value'] = 'Se establece en 1,00000 si este es su peso por defecto.';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as unidades de pesos!';
-$_['error_title']      = 'Unidade de peso deve ter entre 3 e 32 caracteres!';
-$_['error_unit']       = 'Unidade deve ser entre 1 e 4 caracteres!';
-$_['error_default']    = 'Atenção: Esta unidade de peso não pode ser excluída, pois ela está definida como a unidade de peso padrão!';
-$_['error_product']    = 'Atenção: Esta unidade de peso não pode ser excluída, pois está vinculada a %s produtos!';
+$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar los tipos de peso';
+$_['error_title'] = 'Los tipos de Peso debe ser entre 3 y 32 caracteres!';
+$_['error_unit'] = 'La unidad debe estar entre 1 y 4 caracteres';
+$_['error_default'] = 'Advertencia: Esta clase de peso no puede ser eliminado, ya que actualmente est&aacute; asignado como la clase predeterminada de peso tienda';
+$_['error_product'] = 'Advertencia: Esta clase de peso no se puede eliminar ya que se asigna actualmente a los productos de% s';

@@ -3,34 +3,34 @@
 $_['heading_title']           = 'Países';
 
 // Text
-$_['text_success']            = 'País modificado com sucesso!';
-$_['text_list']               = 'Listando países';
-$_['text_add']                = 'Novo país';
-$_['text_edit']               = 'Editando país';
+$_['text_success']            = 'País modificado exitosamente!';
+$_['text_list']               = 'Lista de países';
+$_['text_add']                = 'Nuevo país';
+$_['text_edit']               = 'Editar país';
 
 // Column
 $_['column_name']             = 'País';
 $_['column_iso_code_2']       = 'Código ISO (2)';
 $_['column_iso_code_3']       = 'Código ISO (3)';
-$_['column_action']           = 'Ação';
+$_['column_action']           = 'Acci&oacute;n';
 
 // Entry
 $_['entry_name']              = 'País';
 $_['entry_iso_code_2']        = 'Código ISO (2)';
 $_['entry_iso_code_3']        = 'Código ISO (3)';
-$_['entry_address_format']    = 'Formatação do endereço';
-$_['entry_postcode_required'] = 'CEP obrigatório?';
-$_['entry_status']            = 'Situação';
+$_['entry_address_format']    = 'Formato de dirección';
+$_['entry_postcode_required'] = 'Código Postal es obligatorio?';
+$_['entry_status']            = 'Estado';
 
 // Help
-$_['help_address_format']     = 'Nome = {firstname}<br />Sobrenome = {lastname}<br />Local = {company}<br />Endereço = {address_1}<br />Bairro = {address_2}<br />Cidade = {city}<br />CEP = {postcode}<br />Estado = {zone}<br />UF = {zone_code}<br />País = {country}';
+$_['help_address_format']     = 'Nombre = {firstname}<br />Apellido = {lastname}<br />Compa&ntilde;&iacute;a= {company}<br />Direcci&oacute;n = {address_1}<br /> Direcci&oacute;n 2 = {address_2}<br />Ciudad = {city}<br />CP = {postcode}<br />Provincia = {zone}<br />UF = {zone_code}<br />País = {country}';
 
 // Error
-$_['error_permission']        = 'Atenção: Você não tem permissão para modificar os países!';
-$_['error_name']              = 'OPaís deve ter entre 3 e 128 caracteres!';
-$_['error_default']           = 'Atenção: Este país não pode ser excluído, pois ele está definido como o país padrão!';
-$_['error_store']             = 'Atenção: Este país não pode ser excluído, pois está vinculado a %s lojas!';
-$_['error_address']           = 'Atenção: Este país não pode ser excluído, pois está vinculado a %s endereços!';
-$_['error_affiliate']         = 'Atenção: Este país não pode ser excluído, pois está vinculado a %s afiliados!';
-$_['error_zone']              = 'Atenção: Este país não pode ser excluído, pois está vinculado a %s estados!';
-$_['error_zone_to_geo_zone']  = 'Atenção: Este país não pode ser excluído, pois está vinculado a %s regiões!';
+$_['error_permission']        = 'Advertencia: No tenés permisos para modificar los países!';
+$_['error_name']              = 'País debe tener entre 3 y 128 caracteres!';
+$_['error_default']           = 'Advertencia: Este país no puede ser borrado, porque está definido como el país de la tienda!';
+$_['error_store']             = 'Advertencia: Este país no puede ser borrado, porque es usado en %s tiendas!';
+$_['error_address']           = 'Advertencia: Este país no puede ser borrado, porque es usado en %s direcciones!';
+$_['error_affiliate']         = 'Advertencia: Este país no puede ser borrado, porque es usado en %s afiliados!';
+$_['error_zone']              = 'Advertencia: Este país no puede ser borrado, porque es usado en %s provincias!';
+$_['error_zone_to_geo_zone']  = 'Advertencia: Este país no puede ser borrado, porque es usado en %s regiones!';

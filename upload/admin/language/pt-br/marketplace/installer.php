@@ -1,29 +1,29 @@
 <?php
 // Heading
-$_['heading_title']     = 'Instalador de extensões';
+$_['heading_title']     = 'Instalador de extensiones';
 
 // Text
-$_['text_progress']     = 'Progresso da instalação';
-$_['text_upload']       = 'Extensões';
-$_['text_history']      = 'Extensões instaladas';
-$_['text_success']      = 'Extensão modificada com sucesso!';
+$_['text_progress']     = 'Progreso de instalación';
+$_['text_upload']       = 'Requiere un archivo de modificaciones de extensión \'.ocmod.zip\'.';
+$_['text_success']      = 'Extensión modificada exitosamente!';
 $_['text_install']      = 'Instalando';
 
 // Column
-$_['column_filename']   = 'Arquivo';
-$_['column_date_added'] = 'Adicionada em';
-$_['column_action']     = 'Ação';
+$_['column_filename']   = 'Archivo';
+$_['column_date_added'] = 'Falta Alta';
+$_['column_action']     = 'Acci&oacute;n';
 
 // Entry
-$_['entry_upload']      = 'Arquivo';
-$_['entry_progress']    = 'Progresso';
+$_['entry_upload']      = 'Archivo';
+$_['entry_progress']    = 'Progreso';
 
-// Help
-$_['help_upload']       = 'O nome do arquivo da extensão, deve terminar com \'.ocmod.zip\'.';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para utilizar o Instalador de extensões!';
-$_['error_install']     = 'Aguarde alguns segundos antes de tentar instalar!';
-$_['error_upload']      = 'O arquivo não foi enviado!';
-$_['error_filetype']    = 'O tipo de arquivo não é válido!';
-$_['error_file']        = 'O arquivo não foi encontrado!';
+$_['error_permission']  = 'Advertencia: No tenés permisos para utilizar el Instalador de extensiones!';
+$_['error_install']     = 'No se econtró registro de la instalación!';
+$_['error_directory']   = 'Directorio de instalación %s no pudo ser encontrado!';
+$_['error_upload']      = 'El archivo no pudo ser subido!';
+$_['error_filetype']    = 'Tipo de archivo inválido!';
+$_['error_file']        = 'Archivo %s no pudo ser encontrado!';
+$_['error_exists']      = 'La ruta %s ya existe!';
+$_['error_unzip']       = 'archivo Zip no pudo ser abierto!';

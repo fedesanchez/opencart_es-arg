@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Temas dos vales presentes';
+$_['heading_title']     = 'Temas de vales de regalo';
 
 // Text
-$_['text_success']      = 'Tema modificado com sucesso!';
-$_['text_list']         = 'Listando temas dos vales presentes';
-$_['text_add']          = 'Novo tema';
-$_['text_edit']         = 'Editando tema';
+$_['text_success']      = 'Tema modificado exitosamente!';
+$_['text_list']         = 'Lista de temas de vales de regalo';
+$_['text_add']          = 'Nuevo tema';
+$_['text_edit']         = 'Editar tema';
 
 // Column
-$_['column_name']       = 'Nome do tema';
-$_['column_action']     = 'Ação';
+$_['column_name']       = 'Nombre del tema';
+$_['column_action']     = 'Acci&oacute;n';
 
 // Entry
-$_['entry_name']        = 'Nome do tema';
-$_['entry_description'] = 'Descrição';
-$_['entry_image']       = 'Imagem';
+$_['entry_name']        = 'Nombre del tema';
+$_['entry_description'] = 'Descripción';
+$_['entry_image']       = 'Imagen';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar temas dos vales presentes!';
-$_['error_name']        = 'O nome do tema deve ter entre 3 e 32 caracteres!';
-$_['error_image']       = 'A imagem é obrigatória!';
-$_['error_voucher']     = 'Atenção: Este tema não pode ser excluído, pois está vinculado a %s vales presentes!';
+$_['error_permission']  = 'Advertencia: No tenés permisos para modificar temas de vales de regalo!';
+$_['error_name']        = 'El nombre del tema debe tener entre 3 y 32 caracteres!';
+$_['error_image']       = 'La imagen es obligatoria!';
+$_['error_voucher']     = 'Advertencia: Este tema no puede ser borrado, porque es usado en %s vales de regalo!';

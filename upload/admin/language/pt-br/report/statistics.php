@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']         = 'Estatísticas';
+$_['heading_title']         = 'Estadísticas';
 
 // Text
-$_['text_success']          = 'Estatística modificada com sucesso!';
-$_['text_list']             = 'Listando estatísticas';
+$_['text_success']          = 'Genial: Estadística modificada exitosamente!';
+$_['text_list']             = 'Lista de estadísticas';
 $_['text_order_sale']       = 'Pedidos';
-$_['text_order_processing'] = 'Pedidos sendo processados';
+$_['text_order_processing'] = 'Pedidos siendo procesados';
 $_['text_order_complete']   = 'Pedidos finalizados';
-$_['text_order_other']      = 'Pedidos em outras situações';
-$_['text_returns']          = 'Devoluções';
-$_['text_customer']         = 'Clientes aguardando aprovação';
-$_['text_affiliate']        = 'Afiliados aguardando aprovação';
-$_['text_product']          = 'Produtos sem estoque';
-$_['text_review']           = 'Comentários pendentes';
+$_['text_order_other']      = 'Pedidos en otros estados';
+$_['text_returns']          = 'Devoluciones';
+$_['text_customer']         = 'Clientes esperando aprobación';
+$_['text_affiliate']        = 'Afiliados esperando aprobación';
+$_['text_product']          = 'Productos sin stock';
+$_['text_review']           = 'Comentarios pendientes de review';
 
 // Column
-$_['column_name']           = 'Estatística';
+$_['column_name']           = 'Estadística';
 $_['column_value']          = 'Valor';
-$_['column_action']         = 'Ação';
+$_['column_action']         = 'Acci&oacute;n';
 
 // Error
-$_['error_permission']      = 'Atenção: Você não tem permissão para atualizar as estatísticas!';
+$_['error_permission']      = 'Advertencia: No tenés permisos para actualizar las estadísticas!';

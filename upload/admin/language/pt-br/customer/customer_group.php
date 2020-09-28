@@ -3,28 +3,28 @@
 $_['heading_title']     = 'Tipos de cliente';
 
 // Text
-$_['text_success']      = 'Tipo de cliente modificado com sucesso!';
-$_['text_list']         = 'Listando tipos de cliente';
-$_['text_add']          = 'Novo tipo de cliente';
-$_['text_edit']         = 'Editando tipo de cliente';
+$_['text_success']      = 'Tipo de cliente modificado con éxito!';
+$_['text_list']         = 'Lista de tipos de cliente';
+$_['text_add']          = 'A&ntilde;adir tipo de cliente';
+$_['text_edit']         = 'Editar tipo de cliente';
 
 // Column
 $_['column_name']       = 'Tipo de cliente';
-$_['column_sort_order'] = 'Posição';
-$_['column_action']     = 'Ação';
+$_['column_sort_order'] = 'Ordenar Por';
+$_['column_action']     = 'Acci&oacute;n';
 
 // Entry
 $_['entry_name']        = 'Tipo de cliente';
-$_['entry_description'] = 'Informações';
-$_['entry_approval']    = 'Aprovar cliente?';
-$_['entry_sort_order']  = 'Posição';
+$_['entry_description'] = 'Descripción';
+$_['entry_approval']    = 'Aprobar cliente?';
+$_['entry_sort_order']  = 'Ordenar Por';
 
 // Help
-$_['help_approval']     = 'Se sim, os clientes dependeram de aprovação para realizar pedidos';
+$_['help_approval']     = 'Los clientes deben ser aprobados por el administrador antes de que puedan iniciar sesi&oacute;n.';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os tipos de cliente!';
-$_['error_name']        = 'O tipo de cliente deve ter entre 3 e 32 caracteres!';
-$_['error_default']     = 'Atenção: O tipo de cliente não pode ser excluído, pois é definido como o tipo de cliente padrão da loja!';
-$_['error_store']       = 'Atenção: O tipo de cliente não pode ser excluído, pois está vinculado a %s lojas!';
-$_['error_customer']    = 'Atenção: O tipo de cliente não pode ser excluído, pois está vinculado a %s clientes!';
+$_['error_permission']  = 'Advertencia: Usted no tiene permiso para modificar los tipos de cliente!';
+$_['error_name']        = 'El tipo de cliente debe tener entre 3 y 32 caracteres!';
+$_['error_default']     = 'Advertencia: el tipo de cliente no puede ser borrado, porque es usado como tipo de cliente padre de la tienda!';
+$_['error_store']       = 'Advertencia: el tipo de cliente no puede ser borrado, porque es usado en %s tiendas!';
+$_['error_customer']    = 'Advertencia: el tipo de cliente no puede ser borrado, ya que se asigna actualmente a los clientes% s!';

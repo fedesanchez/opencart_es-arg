@@ -18,7 +18,7 @@ $_['text_amount']            = 'Valor fijo';
 $_['text_keyword']           = 'No usar espacios, reemplazar los espacios por - (guión), y revisar que la SEO URL es única en la tienda.';
 
 // Column
-$_['column_name']            = 'Produto';
+$_['column_name']            = 'Producto';
 $_['column_model']           = 'Modelo';
 $_['column_image']           = 'Imagen';
 $_['column_price']           = 'Precio';
@@ -27,7 +27,7 @@ $_['column_status']          = 'Estado';
 $_['column_action']          = 'Acción';
 
 // Entry
-$_['entry_name']             = 'Produto';
+$_['entry_name']             = 'Producto';
 $_['entry_description']      = 'Descripción';
 $_['entry_meta_title']       = 'Meta título';
 $_['entry_meta_keyword']     = 'Meta palabras clave';
@@ -77,7 +77,7 @@ $_['entry_sort_order']       = 'Orden';
 $_['entry_category']         = 'Categorías';
 $_['entry_filter']           = 'Filtros';
 $_['entry_download']         = 'Downloads';
-$_['entry_related']          = 'Produtos relacionados';
+$_['entry_related']          = 'Productos relacionados';
 $_['entry_tag']              = 'Etiquetas';
 $_['entry_reward']           = 'Puntos de recompensa';
 $_['entry_layout']           = 'Layout para este producto';
@@ -85,7 +85,7 @@ $_['entry_recurring']        = 'Perfil recurrente';
 
 // Help
 $_['help_sku']               = 'Es el código ligado a logística de depósito (Stock Keeping Unit).';
-$_['help_upc']               = 'Código Universal de Produtos.';
+$_['help_upc']               = 'Código Universal de Productos.';
 $_['help_ean']               = 'Número de Artículo Europeo';
 $_['help_jan']               = 'Número de Artículo Japonés';
 $_['help_isbn']              = 'Número de Estandar Internacional de Libro.';
@@ -103,7 +103,7 @@ $_['help_tag']               = 'Separado por comas';
 // Error
 $_['error_warning']          = 'Advertencia: revisar todos los campos del formulario.';
 $_['error_permission']       = 'Advertencia: No tenés permiso para modificar los productos!';
-$_['error_name']             = 'Produto debe tener entre 3 y 255 caracteres!';
+$_['error_name']             = 'Producto debe tener entre 3 y 255 caracteres!';
 $_['error_meta_title']       = 'Meta título debe tener entre 3 y 255 caracteres!';
 $_['error_model']            = 'Modelo debe tener entre 1 y 64 caracteres!';
 $_['error_seo']              = 'SEO URL palabra clave es requerido!';

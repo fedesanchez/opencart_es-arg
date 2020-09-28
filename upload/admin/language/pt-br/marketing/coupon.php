@@ -1,57 +1,56 @@
 <?php
 // Heading
-$_['heading_title']       = 'Cupons';
+$_['heading_title']       = 'Cup&oacute;n';
 
 // Text
-$_['text_success']        = 'Cupom modificado com sucesso!';
-$_['text_list']           = 'Listando cupons';
-$_['text_add']            = 'Novo cupom';
-$_['text_edit']           = 'Editando cupom';
-$_['text_percent']        = 'Percentual';
-$_['text_amount']         = 'Valor fixo';
-$_['text_coupon']         = 'Histórico';
+$_['text_success'] = '&eacute;xito: Ha modificado cupones!';
+$_['text_list'] = 'Lista de Cupones';
+$_['text_add'] = 'A&ntilde;adir Cup&oacute;n';
+$_['text_edit'] = 'Editar Cup&oacute;n';
+$_['text_percent'] = 'Porcentaje';
+$_['text_amount'] = 'cantidad fija';
 
 // Column
-$_['column_name']         = 'Cupom';
-$_['column_code']         = 'Código';
-$_['column_discount']     = 'Desconto';
-$_['column_date_start']   = 'Data do início';
-$_['column_date_end']     = 'Data do fim';
-$_['column_status']       = 'Situação';
-$_['column_order_id']     = 'Pedido nº';
-$_['column_customer']     = 'Cliente';
-$_['column_amount']       = 'Valor';
-$_['column_date_added']   = 'Cadastro';
-$_['column_action']       = 'Ação';
+$_['column_name'] = 'Cup&oacute;n Nombre';
+$_['column_code'] = 'C&oacute;digo';
+$_['column_discount'] = 'descuento';
+$_['column_date_start'] = 'Fecha de inicio';
+$_['column_date_end'] = 'Fecha Fin';
+$_['column_status'] = 'Estado';
+$_['column_order_id'] = 'Orden ID';
+$_['column_customer'] = 'Cliente';
+$_['column_amount'] = 'Cantidad';
+$_['column_date_added'] = 'Fecha Alta';
+$_['column_action'] = 'Acci&oacute;n';
 
 // Entry
-$_['entry_name']          = 'Cupom';
-$_['entry_code']          = 'Código';
-$_['entry_type']          = 'Tipo de desconto';
-$_['entry_discount']      = 'Desconto';
-$_['entry_logged']        = 'Cliente logado?';
-$_['entry_shipping']      = 'Frete grátis?';
-$_['entry_total']         = 'Valor';
-$_['entry_category']      = 'Departamentos';
-$_['entry_product']       = 'Produtos';
-$_['entry_date_start']    = 'Data de início';
-$_['entry_date_end']      = 'Data de fim';
-$_['entry_uses_total']    = 'Utilizações por cupom';
-$_['entry_uses_customer'] = 'Utilizações por cliente';
-$_['entry_status']        = 'Situação';
+$_['entry_name'] = 'Cup&oacute;n Nombre';
+$_['entry_code'] = 'C&oacute;digo';
+$_['entry_type'] = 'Tipo';
+$_['entry_discount'] = 'descuento';
+$_['entry_logged'] = 'Cliente Login';
+$_['entry_shipping'] = 'Env&iacute;o Gratis';
+$_['entry_total'] = 'Monto total';
+$_['entry_category'] = 'Categor&iacute;a';
+$_['entry_product'] = 'Productos' ;
+$_['entry_date_start'] = 'Fecha de inicio';
+$_['entry_date_end'] = 'Fecha Fin';
+$_['entry_uses_total'] = 'Usos Per Cup&oacute;n';
+$_['entry_uses_customer'] = 'Usos por cliente';
+$_['entry_status'] = 'Estado';
 
-// Help
-$_['help_code']           = 'Código que o cliente deve utilizar para obter o desconto';
-$_['help_type']           = 'Se fixo ou percentual';
-$_['help_logged']         = 'Sleecione se o cliente deve estar logado na loja para utilizar o cupom';
-$_['help_total']          = 'Valor total que deve o pedido deve alcançar para que o cupom seja liberado';
-$_['help_category']       = 'Selecione os departamentos em que o cupom pode ser utilizado';
-$_['help_product']        = 'Selecione os produtos em que o cupom pode ser utilizado';
-$_['help_uses_total']     = 'Número máximo de vezes que o cupom pode ser utilizado por clientes diferentes. Deixe em branco para ilimitado';
-$_['help_uses_customer']  = 'Número máximo de vezes que o cupom pode ser utilizado pelo mesmo cliente. Deixe em branco para ilimitado';
+// Ayuda
+$_['help_code'] = 'El c&oacute;digo del cliente introduce para obtener el descuento.';
+$_['help_type'] = 'porcentaje o cantidad fija.';
+$_['help_logged'] = 'El cliente debe estar registrado para utilizar el cup&oacute;n.';
+$_['help_total'] = 'La cantidad total que se debe alcanzar antes de que el cup&oacute;n es v&aacute;lido';
+$_['help_category'] = 'Elija todos los productos bajo la categor&iacute;a seleccionada.';
+$_['help_product'] = 'Elija productos espec&iacute;ficos para que cup&oacute;n se aplique. Seleccione productos para aplicar promocional para toda la compra. ';
+$_['help_uses_total'] = 'El n&uacute;mero m&aacute;ximo de veces que el cup&oacute;n puede ser utilizado por cualquier cliente. Dejar en blanco para un n&uacute;mero ilimitado ';
+$_['help_uses_customer'] = 'El n&uacute;mero m&aacute;ximo de veces que el cup&oacute;n puede ser utilizado por un solo cliente. Dejar en blanco para un n&uacute;mero ilimitado ';
 
 // Error
-$_['error_permission']    = 'Atenção: Você não tem permissão para modificar os cupons!';
-$_['error_exists']        = 'Atenção: o código do cupom já está em uso!';
-$_['error_name']          = 'Cupom deve ter entre 3 e 128 caracteres!';
-$_['error_code']          = 'Código deve ter entre 3 e 10 caracteres!';
+$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar cupones!';
+$_['error_exists'] = 'Advertencia: C&oacute;digo de descuento ya est&aacute; en uso!';
+$_['error_name'] = 'Cup&oacute;n nombre debe tener entre 3 y 128 caracteres!';
+$_['error_code'] = 'C&oacute;digo debe tener entre 3 y 10 caracteres!';

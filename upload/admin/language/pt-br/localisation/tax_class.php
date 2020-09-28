@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']     = 'Grupos de impostos';
+$_['heading_title'] = 'Clases de impuestos';
 
 // Text
-$_['text_success']      = 'Grupo de impostos modificado com sucesso!';
-$_['text_list']         = 'Listando grupos de impostos';
-$_['text_add']          = 'Novo grupo de impostos';
-$_['text_edit']         = 'Editando grupo de impostos';
-$_['text_tax_class']    = 'Detalhes do grupo de impostos';
-$_['text_tax_rate']     = 'Tipos de impostos';
-$_['text_shipping']     = 'Endereço de entrega';
-$_['text_payment']      = 'Endereço de fatura';
-$_['text_store']        = 'Endereço da loja';
+$_['text_success'] = 'Genial: Ha modificado clases de impuestos';
+$_['text_list'] = 'Tipo de Iva';
+$_['text_add'] = 'Agregar clase de impuestos ';
+$_['text_edit'] = 'Editar clase de impuestos';
+$_['text_tax_class']    = 'Clase de Iva';
+$_['text_tax_rate']     = 'Tasas de Iva';
+$_['text_shipping'] = 'Direcci&oacute;n de envío ';
+$_['text_payment'] = 'Direcci&oacute;n de Pago ';
+$_['text_store'] = 'Tienda Direcci&oacute;n';
 
 // Column
-$_['column_title']      = 'Grupo de impostos';
-$_['column_action']     = 'Ação';
+$_['column_title'] = 'Tipo de Iva';
+$_['column_action'] = 'Acci&oacute;n';
 
 // Entry
-$_['entry_title']       = 'Grupo de impostos';
-$_['entry_description'] = 'Descrição';
-$_['entry_rate']        = 'Tipo de imposto';
-$_['entry_based']       = 'Calculado a partir do';
-$_['entry_geo_zone']    = 'Região';
-$_['entry_priority']    = 'Prioridade';
+$_['entry_title'] = 'Tipo de Iva';
+$_['entry_description'] = 'Descripci&oacute;n';
+$_['entry_rate'] = 'Tasa de Impuesto ';
+$_['entry_based'] = 'Basado en la ';
+$_['entry_geo_zone'] = 'Zona Geo';
+$_['entry_priority'] = 'Prioridad';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os grupos de impostos!';
-$_['error_title']       = 'Grupo de impostos deve ter entre 3 e 32 caracteres!';
-$_['error_description'] = 'Descrição deve ter entre 3 e 255 caracteres!';
-$_['error_product']     = 'Atenção: Este grupo de impostos não pode ser excluído, pois está vinculado a %s produtos!';
+$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar las clases de impuestos ';
+$_['error_title'] = 'El tipo de clase Tributaria debe tener entre 3 y 32 caracteres';
+$_['error_description'] = 'Descripci&oacute;n debe estar entre 3 y 255 caracteres!';
+$_['error_product'] = 'Advertencia: Esta clase de impuestos no puede ser eliminado, ya que se asigna actualmente a los productos de% s';

@@ -3,13 +3,13 @@
 $_['heading_title']    = 'Menu';
 
 // Text
-$_['text_success']     = 'Menu modificado com sucesso!';
-$_['text_list']        = 'Listando menu';
+$_['text_success']     = 'Menu modificado exitosamente!';
+$_['text_list']        = 'Lista de menu';
 
 // Column
 $_['column_name']      = 'Menu';
-$_['column_status']    = 'Situação';
-$_['column_action']    = 'Ação';
+$_['column_status']    = 'Estado';
+$_['column_action']    = 'Acci&oacute;n';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as extensões do tipo menu!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para modificar as extensões do tipo menu!';

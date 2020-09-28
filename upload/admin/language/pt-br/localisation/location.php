@@ -1,38 +1,38 @@
 <?php
 // Heading
-$_['heading_title']    = 'Localizações das lojas';
+$_['heading_title'] = 'Ubicaci&oacute;n de las tiendas';
 
 // Text
-$_['text_success']     = 'Localização modificada com sucesso!';
-$_['text_list']        = 'Listando localizações das lojas';
-$_['text_add']         = 'Nova localização';
-$_['text_edit']        = 'Editando localização';
-$_['text_default']     = 'Principal';
-$_['text_time']        = 'Funcionamento';
-$_['text_geocode']     = 'A geolocalização não funcionou pelo seguinte motivo:';
+$_['text_success'] = 'Genial: Ha modificado ubicaci&oacute;n de las tiendas';
+$_['text_list'] = 'Listado Ubicaci&oacute;n de la tienda';
+$_['text_add'] = 'A&ntilde;adir tienda Lugar';
+$_['text_edit'] = 'Editar Ubicaci&oacute;n de la tienda';
+$_['text_default'] = 'Por defecto';
+$_['text_time'] = 'Horario';
+$_['text_geocode'] = 'Geocode no tuvo &eacute;xito por la siguiente raz&oacute;n:';
 
 // Column
-$_['column_name']      = 'Loja';
-$_['column_address']   = 'Endereço';
-$_['column_action']    = 'Ação';
+$_['column_name'] = 'Nombre de la tienda';
+$_['column_address'] = 'Direcci&oacute;n';
+$_['column_action'] = 'Acci&oacute;n';
 
 // Entry
-$_['entry_name']       = 'Loja';
-$_['entry_address']    = 'Endereço';
-$_['entry_geocode']    = 'Geolocalização';
-$_['entry_telephone']  = 'Telefone';
-$_['entry_fax']        = 'Fax';
-$_['entry_image']      = 'Imagem';
-$_['entry_open']       = 'Funcionamento';
-$_['entry_comment']    = 'Informações';
+$_['nombre_entrada'] = 'Nombre de la tienda';
+$_['entry_address'] = 'Direcci&oacute;n';
+$_['entry_geocode'] = 'Geocode';
+$_['entry_telephone'] = 'Teléfono';
+$_['entry_fax'] = 'Fax';
+$_['entry_image'] = 'Imagen';
+$_['entry_open'] = 'Horario';
+$_['entry_comment'] = 'Comentario';
 
 // Help
-$_['help_geocode']     = 'Digite a geolocalização da loja manualmente.';
-$_['help_open']        = 'Informe o horário de funcionamento da loja.';
-$_['help_comment']     = 'Este campo server para você digitar informações importantes e específicas para está loja.';
+$_['help_geocode'] = 'Por favor, introduzca su tienda ubicaci&oacute;n codificaci&oacute;n geogr&aacute;fica manualmente.';
+$_['help_open'] = 'Rellene sus tiendas abren veces.';
+$_['help_comment'] = 'Este campo es para las notas especiales que le gustar&iacute;a decirle al cliente es decir tienda no acepta cheques.';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as localizações!';
-$_['error_name']       = 'Loja deve ter pelo menos 1 caractere!';
-$_['error_address']    = 'Endereço deve ter entre 3 e 128 caracteres!';
-$_['error_telephone']  = 'Telefone deve ter entre 3 e 32 caracteres!';
+$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar ubicaciones de las tiendas';
+$_['error_name'] = 'Nombre del negocio debe ser de al menos 1 car&aacute;cter!';
+$_['error_address'] = 'Direcci&oacute;n debe tener entre 3 y 128 caracteres!';
+$_['error_telephone'] = 'Tel&eacute;fono debe tener entre 3 y 32 caracteres!';

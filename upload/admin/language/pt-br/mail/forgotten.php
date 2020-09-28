@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Solicitação de nova de senha';
-$_['text_greeting'] = 'Foi solicitada uma nova senha de acesso através da loja %s.';
-$_['text_change']   = 'Para cadastrar sua nova senha, clique no link abaixo:';
-$_['text_ip']       = 'O IP utilizado para fazer esta solicitação foi: %s';
+$_['text_subject']  = '%s - Solicitud de cambio de contraseña';
+$_['text_greeting'] = 'Se solicitó una nueva contraseña de acceso para su cuenta de la tienda %s.';
+$_['text_change']   = 'Para resetear tu contraseña, click en el link que está abajo:';
+$_['text_ip']       = 'La IP utilizada para hacer esta solicitud fue: %s';

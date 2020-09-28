@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']    = 'Editor de traduções';
+$_['heading_title']    = 'Editor de traducciones';
 
 // Text
-$_['text_success']     = 'Tradução editada com sucesso!';
-$_['text_list']        = 'Listando traduções';
-$_['text_edit']        = 'Editar tradução';
-$_['text_add']         = 'Adicionar tradução';
-$_['text_default']     = 'Padrão';
-$_['text_store']       = 'Loja';
+$_['text_success']     = 'Traducción editada exitosamente!';
+$_['text_list']        = 'Lista de traducciones';
+$_['text_edit']        = 'Editar traducción';
+$_['text_add']         = 'Añadir traducción';
+$_['text_default']     = 'Default';
+$_['text_store']       = 'Tienda';
 $_['text_language']    = 'Idioma';
 
 // Column
-$_['column_store']     = 'Loja';
+$_['column_store']     = 'Tienda';
 $_['column_language']  = 'Idioma';
-$_['column_route']     = 'Arquivo';
-$_['column_key']       = 'Chave';
+$_['column_route']     = 'Ruta';
+$_['column_key']       = 'key';
 $_['column_value']     = 'Valor';
-$_['column_action']    = 'Ação';
+$_['column_action']    = 'Acci&oacute;n';
 
 // Entry
-$_['entry_store']      = 'Loja';
+$_['entry_store']      = 'Tienda';
 $_['entry_language']   = 'Idioma';
-$_['entry_route']      = 'Arquivo';
-$_['entry_key']        = 'Chave';
-$_['entry_default']    = 'Padrão';
+$_['entry_route']      = 'Ruta';
+$_['entry_key']        = 'Key';
+$_['entry_default']    = 'Default';
 $_['entry_value']      = 'Valor';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para utilizar o editor de tradução!';
-$_['error_key']        = 'A Chave deve ter entre 3 e 64 caracteres!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para utilizar el editor de traducciones!';
+$_['error_key']        = 'Key debe tener entre 3 y 64 caracteres!';

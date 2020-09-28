@@ -4,7 +4,7 @@ $_['heading_title']          = 'Categorías';
 
 // Text
 $_['text_success']           = 'Categoría modificada con éxito!';
-$_['text_list']              = 'Listando categorías';
+$_['text_list']              = 'Lista de categorías';
 $_['text_add']               = 'Nueva categoría';
 $_['text_edit']              = 'Editando categoría';
 $_['text_default']           = 'Default';

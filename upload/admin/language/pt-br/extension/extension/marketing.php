@@ -3,13 +3,13 @@
 $_['heading_title']    = 'Marketing';
 
 // Text
-$_['text_success']     = 'Marketing modificado com sucesso!';
-$_['text_list']        = 'Listando marketing';
+$_['text_success']     = 'Marketing modificado exitosamente!';
+$_['text_list']        = 'Lista de marketing';
 
 // Column
 $_['column_name']      = 'Marketing';
-$_['column_status']    = 'Situação';
-$_['column_action']    = 'Ação';
+$_['column_status']    = 'Estado';
+$_['column_action']    = 'Acci&oacute;n';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as extensões do tipo marketing!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para modificar as extensões do tipo marketing!';

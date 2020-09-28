@@ -3,13 +3,13 @@
 $_['heading_title']    = 'Antifraudes';
 
 // Text
-$_['text_success']     = 'Antifraude modificado com sucesso!';
-$_['text_list']        = 'Listando antifraude';
+$_['text_success']     = 'Antifraude modificado exitosamente!';
+$_['text_list']        = 'Lista de antifraude';
 
 // Column
 $_['column_name']      = 'Antifraude';
-$_['column_status']    = 'Situação';
-$_['column_action']    = 'Ação';
+$_['column_status']    = 'Estado';
+$_['column_action']    = 'Acci&oacute;n';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as extensões do tipo antifraude!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para modificar as extensões do tipo antifraude!';

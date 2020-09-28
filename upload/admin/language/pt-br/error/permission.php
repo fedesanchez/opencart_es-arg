@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']   = 'Permissão negada!';
+$_['heading_title']   = 'Permiso denegado!';
 
 // Text
-$_['text_permission'] = 'Você não tem permissão para acessar esta página, consulte o administrador do loja para mais informações.';
+$_['text_permission'] = 'No tenés permisos para acceder a esta página, contacte al administrador de la tienda para mas información.';

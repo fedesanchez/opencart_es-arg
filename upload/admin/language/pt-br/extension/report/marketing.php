@@ -5,7 +5,7 @@ $_['heading_title']    = 'Relatório de marketing';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_edit']        = 'Editando Relatório de marketing';
-$_['text_success']     = 'Relatório modificado com sucesso!';
+$_['text_success']     = 'Relatório modificado exitosamente!';
 $_['text_filter']      = 'Filtros';
 $_['text_all_status']  = 'Todos as situações';
 
@@ -19,9 +19,9 @@ $_['column_total']     = 'Total';
 // Entry
 $_['entry_date_start'] = 'Data inicial';
 $_['entry_date_end']   = 'Data final';
-$_['entry_status']     = 'Situação do pedido';
-$_['entry_status']     = 'Situação';
-$_['entry_sort_order'] = 'Posição';
+$_['entry_status']     = 'Estado do pedido';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Ordenar por';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar o relatório!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para modificar o relatório!';

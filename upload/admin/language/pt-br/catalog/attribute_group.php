@@ -21,4 +21,4 @@ $_['entry_sort_order']  = 'Orden';
 $_['error_permission']  = 'Advertencia: No tenés permisos para modificar los grupos de atributos!';
 $_['error_name']        = 'Grupo de atributos debe tener entre 1 y 64 caracteres!';
 $_['error_attribute']   = 'Advertencia: Este grupo de atributos no puede ser borrado, porque es usada en %s atributos!';
-$_['error_product']     = 'Advertencia: Este grupo de atributos no puede ser borrado, porque es usada en %s produtos!';
+$_['error_product']     = 'Advertencia: Este grupo de atributos no puede ser borrado, porque es usada en %s productos!';

@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'Situações de devoluções';
+$_['heading_title'] = 'Estado de Devoluciones';
 
 // Text
-$_['text_success']     = 'Situação de devoluções modificado com sucesso!';
-$_['text_list']        = 'Listando situações de devoluções';
-$_['text_add']         = 'Nova situação de devoluções';
-$_['text_edit']        = 'Editando situação de devoluções';
+$_['text_success'] = 'Genial: Ha modificado el estado de retorno';
+$_['text_list'] = 'Estados de Devoluciones';
+$_['text_add'] = 'A�adir Estado';
+$_['text_edit'] = 'Editar Estado';
 
-// Column
-$_['column_name']      = 'Situação de devoluções';
-$_['column_action']    = 'Ação';
+// column
+$_['column_name'] = 'Estado';
+$_['column_action'] = 'Acci&oacute;n';
 
 // Entry
-$_['entry_name']       = 'Situação de devoluções';
+$_['entry_name'] = 'Estados de devoluciones';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as situações de devoluções!';
-$_['error_name']       = 'Situação de devoluções deve ter entre 3 e 32 caracteres!';
-$_['error_default']    = 'Atenção: Esta situação de pedidos não pode ser excluída, pois ela está definida como a situação de devolução padrão!';
-$_['error_return']     = 'Atenção: Esta situação de devoluções não pode ser excluída, pois está vinculada a %s devoluções!';
+$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar el estado de retorno';
+$_['error_name'] = 'El nombre del Estado de Devoluci&oacute;n debe tener entre 3 y 32 caracteres!';
+$_['error_default'] = 'Advertencia: Este estado de retorno no se puede eliminar, ya que est&aacute; actualmente asignado como el estado de retorno por defecto';
+$_['error_return'] = 'Advertencia: Este estado de retorno no se puede eliminar ya que se asigna actualmente a los retornos% s';

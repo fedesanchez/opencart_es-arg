@@ -4,7 +4,7 @@ $_['heading_title']                = 'Atividades recentes';
 
 // Text
 $_['text_extension']               = 'Extensões';
-$_['text_success']                 = 'Atividades recentes modificada com sucesso!';
+$_['text_success']                 = 'Atividades recentes modificada exitosamente!';
 $_['text_edit']                    = 'Editando Atividades recentes';
 $_['text_activity_register']       = '<a href="customer_id=%d">%s</a> cadastrou uma conta.';
 $_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> atualizou os detalhes da conta.';
@@ -24,9 +24,9 @@ $_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> atualizou 
 $_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> Recebeu comissão do <a href="order_id=%d">pedido</a>.';
 
 // Entry
-$_['entry_status']                 = 'Situação';
-$_['entry_sort_order']             = 'Posição';
+$_['entry_status']                 = 'Estado';
+$_['entry_sort_order']             = 'Ordenar por';
 $_['entry_width']                  = 'Colunas';
 
 // Error
-$_['error_permission']             = 'Atenção: Você não tem permissão para modificar a extensão Atividades recentes!';
+$_['error_permission']             = 'Advertencia: No tenés permisos para modificar a extensão Atividades recentes!';

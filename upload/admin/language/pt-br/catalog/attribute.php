@@ -23,4 +23,4 @@ $_['entry_sort_order']       = 'Orden';
 $_['error_permission']       = 'Advertencia: No tenés permisos para modificar los atributos!';
 $_['error_attribute_group']  = 'Grupo de atributos es obligatorio!';
 $_['error_name']             = 'Atributo debe tener entre 1 y 64 caracteres!';
-$_['error_product']          = 'Advertencia: Este atributo no puede ser borrado, porque es usada en %s produtos!';
+$_['error_product']          = 'Advertencia: Este atributo no puede ser borrado, porque es usada en %s productos!';

@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Soluções de devoluções';
+$_['heading_title'] = 'Volver acciones';
 
-// Text
-$_['text_success']     = 'Solução de devoluções modificada com sucesso!';
-$_['text_list']        = 'Listando soluções de devoluções';
-$_['text_add']         = 'Nova solução de devoluções';
-$_['text_edit']        = 'Editando solução de devoluções';
+// Texto
+$_['text_success'] = 'Genial: Ha modificado acciones de devoluci&oacute;n';
+$_['text_list'] = 'Lista de acciones de devoluciones';
+$_['text_add'] = 'Agregar acci&oacute;n Retorno';
+$_['text_edit'] = 'Editar acci&oacute;n sobre la repatriaci&oacute;n';
 
-// Column
-$_['column_name']      = 'Solução de devoluções';
-$_['column_action']    = 'Ação';
+// columna
+$_['column_name'] = 'Nombre del tipo de devoluci&oacute;n';
+$_['column_action'] = 'Acci&oacute;n';
 
-// Entry
-$_['entry_name']       = 'Solução de devolução';
+// Entrada
+$_['nombre_entrada'] = 'Nombre de tipo de devoluci&oacute;n';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as solução de devoluções!';
-$_['error_name']       = 'Solução de devoluções deve ter entre 3 e 64 caracteres!';
-$_['error_return']     = 'Atenção: Esta solução de devoluções não pode ser excluída, pois está vinculada a %s produtos devolvidos!';
+$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar las acciones de devoluciones';
+$_['error_name'] = 'El nombre del tipo de devoluci&oacute;n debe tener entre 3 y 64 caracteres!';
+$_['error_return'] = 'Advertencia: Esta tipo de devoluci&oacute;n no se puede eliminar ya que se asigna actualmente a% s productos devueltos ';

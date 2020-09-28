@@ -1,27 +1,28 @@
 <?php
 // Heading
-$_['heading_title']      = 'Regiões geográficas';
+$_['heading_title']      = 'Geo Zonas';
+
 
 // Text
-$_['text_success']       = 'Região geográfica modificada com sucesso!';
-$_['text_list']          = 'Listando regiões geográficas';
-$_['text_add']           = 'Nova região geográfica';
-$_['text_edit']          = 'Editando região geográfica';
-$_['text_geo_zone']      = 'Países e estados';
+$_['text_success'] = 'Genial: Ha modificado geo zonas';
+$_['text_list'] = 'Lista de Geo Zonas';
+$_['text_add'] = 'A&ntilde;adir Geo Zona';
+$_['text_edit'] = 'Editar Geo Zona';
+$_['text_geo_zone']      = 'Geo Zonas';
 
-// Column
-$_['column_name']        = 'Região geográfica';
-$_['column_description'] = 'Descrição';
-$_['column_action']      = 'Ação';
+// column
+$_['column_name'] = 'Nombre de la geo zona';
+$_['column_description'] = 'Descripci&oacute;n';
+$_['column_action'] = 'Acci&oacute;n';
 
 // Entry
-$_['entry_name']         = 'Região geográfica';
-$_['entry_description']  = 'Descrição';
-$_['entry_country']      = 'País';
-$_['entry_zone']         = 'Estado';
+$_['entry_name'] = 'Nombre de la geo zona';
+$_['entry_description'] = 'Descripci&oacute;n';
+$_['entry_country'] = 'Pa&iacute;s';
+$_['entry_zone'] = 'Zona';
 
 // Error
-$_['error_permission']   = 'Atenção: Você não possui permissão para modificar as regiões geográficas!';
-$_['error_name']         = 'Região geográfica deve ter entre 3 e 32 caracteres!';
-$_['error_description']  = 'Descrição deve ter entre 3 e 255 caracteres!';
-$_['error_tax_rate']     = 'Atenção: Esta região geográfica não pode ser excluída, pois está vinculada a um ou mais tipos de impostos!';
+$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar geo zonas';
+$_['error_name'] = 'Nombre de geo zona debe tener entre 3 y 32 caracteres!';
+$_['error_description'] = 'El nombre de la Descripci&oacute;n debe tener entre 3 y 255 caracteres!';
+$_['error_tax_rate'] = 'Advertencia: Esta zona geogr&aacute;fica no puede ser eliminada, ya que est&aacute; actualmente asignado a una o m&aacute;s tasas de impuestos!';

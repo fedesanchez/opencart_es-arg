@@ -4,12 +4,12 @@ $_['heading_title']    = 'Crédito na loja';
 
 // Text
 $_['text_extension']   = 'Extensões';
-$_['text_success']     = 'Crédito na loja modificado com sucesso!';
+$_['text_success']     = 'Crédito na loja modificado exitosamente!';
 $_['text_edit']        = 'Editando Crédito na loja';
 
 // Entry
-$_['entry_status']     = 'Situação';
-$_['entry_sort_order'] = 'Posição';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Ordenar por';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar a extensão Crédito na loja!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para modificar a extensão Crédito na loja!';

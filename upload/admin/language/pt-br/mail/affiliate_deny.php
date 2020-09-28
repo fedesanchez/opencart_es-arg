@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject'] = '%s - Sua conta de afiliado não foi aprovada!';
-$_['text_welcome'] = 'Obrigado por se cadastrar na loja %s!';
-$_['text_denied']  = 'Sua conta de afiliado infelizmente não foi aprovada. Para mais informações, entre em contato conosco:';
-$_['text_thanks']  = 'Atenciosamente,';
+$_['text_subject'] = '%s - Tu cuenta de afiliado fue rechazada!';
+$_['text_welcome'] = 'Gracias por registrarte en la tienda %s!';
+$_['text_denied']  = 'Tu cuenta de afiliado no fue aprobada. Para mas información, contactese con nosotros:';
+$_['text_thanks']  = 'Gracias,';

@@ -3,70 +3,70 @@
 $_['heading_title']      = 'Marketplace';
 
 // Text
-$_['text_success']       = 'Você modificou extensões extensões no Marketplace!';
-$_['text_list']          = 'Extensões no Marketplace';
+$_['text_success']       = 'Genial: cambios aplicados exitosamente!';
+$_['text_list']          = 'Lista deExtensiones';
 $_['text_filter']        = 'Filtro';
-$_['text_search']        = 'Pesquise aqui por extensões';
+$_['text_search']        = 'Buscar extensiones y temas';
 $_['text_category']      = 'Tipo';
 $_['text_all']           = 'Todos';
 $_['text_theme']         = 'Temas';
 $_['text_marketplace']   = 'Marketplaces';
 $_['text_language']      = 'Idiomas';
-$_['text_payment']       = 'Pagamentos';
-$_['text_shipping']      = 'Fretes';
+$_['text_payment']       = 'Pagos';
+$_['text_shipping']      = 'Envíos';
 $_['text_module']        = 'Módulos';
-$_['text_total']         = 'Total do pedido';
-$_['text_feed']          = 'Alimentadores';
-$_['text_report']        = 'Relatórios';
-$_['text_other']         = 'Outros';
+$_['text_total']         = 'Total de pedido';
+$_['text_feed']          = 'Feeds';
+$_['text_report']        = 'Reportes';
+$_['text_other']         = 'Otros';
 $_['text_free']          = 'Gratuito';
 $_['text_paid']          = 'Comercial';
 $_['text_purchased']     = 'Comprado';
-$_['text_date_modified'] = 'Atualizada';
-$_['text_date_added']    = 'Lançamento';
-$_['text_rating']        = 'Avaliação';
-$_['text_reviews']       = 'Comentários';
-$_['text_compatibility'] = 'Compatibilidade';
+$_['text_date_modified'] = 'Actualizado';
+$_['text_date_added']    = 'Alta';
+$_['text_rating']        = 'Rating';
+$_['text_reviews']       = 'Comentarios';
+$_['text_compatibility'] = 'Compatibilidad';
 $_['text_downloaded']    = 'downloads';
-$_['text_member_since']  = 'Membro desde:';
-$_['text_price']         = 'Preço';
-$_['text_partner']       = 'Desenvolvido por parceiro OpenCart';
-$_['text_support']       = '12 meses de suporte';
-$_['text_documentation'] = 'Documentação incluída';
-$_['text_sales']         = 'vendas';
-$_['text_comment']       = 'Comentários';
-$_['text_download']      = 'Baixando';
+$_['text_member_since']  = 'Miembro desde:';
+$_['text_price']         = 'Precio';
+$_['text_partner']       = 'Desarrollado por socios de OpenCart';
+$_['text_support']       = '12 meses de soporte';
+$_['text_documentation'] = 'Documentación incluída';
+$_['text_sales']         = 'ventas';
+$_['text_comment']       = 'Comentarios';
+$_['text_download']      = 'Descargando';
 $_['text_install']       = 'Instalando';
-$_['text_comment_add']   = 'Deixe o seu comentário';
-$_['text_write']         = 'Escreva seu comentário aqui...';
-$_['text_purchase']      = 'Confirme quem você é';
-$_['text_pin']           = 'Digite seu número PIN de 4 dígitos. Este número PIN é para proteger sua conta.';
-$_['text_secure']        = 'Não compartilhe seu PIN, incluindo desenvolvedores. Se você contratou os serviços de uma agência ou desenvolvedor para instalar uma extensão, o ideal é que você envie a extensão.';
-$_['text_name']          = 'Nome do download';
-$_['text_progress']      = 'Progresso';
-$_['text_available']     = 'Arquivos para download';
-$_['text_action']        = 'Ação';
+$_['text_comment_add']   = 'Deje su comentario';
+$_['text_write']         = 'Escriba su comentario aquí...';
+$_['text_purchase']      = 'Confirmar quien es usted';
+$_['text_pin']           = 'Ingrese su número PIN de 4 dígitos. Este número PIN es para proteger su cuenta.';
+$_['text_secure']        = 'No compartir su PIN, incluyendo desarrolladores. Si usted contrató los servicios de una agencia de desarrollo, lo ideal es que usted envíe la extensión.';
+$_['text_name']          = 'Nombre de la descarga';
+$_['text_progress']      = 'Progreso';
+$_['text_available']     = 'Archivos para descarga';
+$_['text_action']        = 'Acci&oacute;n';
 
 // Entry
 $_['entry_pin']          = 'PIN';
 
 // Tab
-$_['tab_description']    = 'Descrição';
-$_['tab_documentation']  = 'Documentação';
-$_['tab_download']       = 'Download';
-$_['tab_comment']        = 'Comentário';
+$_['tab_description']    = 'Descripción';
+$_['tab_documentation']  = 'Documentación';
+$_['tab_download']       = 'Descarga';
+$_['tab_comment']        = 'Comentario';
 
 // Button
-$_['button_opencart']    = 'Credencial de acesso para o marketplace do OpenCart';
+$_['button_opencart']    = 'Credencial de acceso para el marketplace de OpenCart';
 $_['button_purchase']    = 'Comprar';
-$_['button_view_all']    = 'Ver todas as extensões';
-$_['button_get_support'] = 'Solicitar suporte';
+$_['button_view_all']    = 'Ver todas las extensiones';
+$_['button_get_support'] = 'Solicitar soporte';
 $_['button_comment']     = 'Comentar';
 $_['button_reply']       = 'Responder';
 
 // Error
-$_['error_permission']   = 'Atenção: Você não tem permissão para modificar extensões no Marketplace!';
-$_['error_opencart']     = 'Atenção: Você deve inserir uma credencial de acesso para o marketplace do OpenCart antes de realizar sua compra!';
+$_['error_permission']   = 'Advertencia: No tenés permisos para modificar extensiones del Marketplace!';
+$_['error_opencart']     = 'Advertencia: Usted debe ingresar una credencial de acceso para el marketplace de OpenCart antes de realizar su compra!';
 $_['error_install']      = 'Aguarde alguns segundos antes de tentar instalar!';
-$_['error_purchase']     = 'Não foi possível comprar a extensão!';
-$_['error_download']     = 'Não foi possível baixar a extensão!';
+$_['error_purchase']     = 'No fue posible comprar la extensión!';
+$_['error_download']     = 'No fue posible descargar la extensión!';
