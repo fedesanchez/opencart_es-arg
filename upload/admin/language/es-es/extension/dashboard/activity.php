@@ -12,9 +12,9 @@ $_['text_activity_password']       = '<a href="customer_id=%d">%s</a> solicitou 
 $_['text_activity_reset']          = '<a href="customer_id=%d">%s</a> atualizou a senha da conta.';
 $_['text_activity_login']          = '<a href="customer_id=%d">%s</a> logged in.';
 $_['text_activity_forgotten']      = '<a href="customer_id=%d">%s</a> solicitou uma nova senha.';
-$_['text_activity_address_add']    = '<a href="customer_id=%d">%s</a> cadastrou um novo endereço.';
-$_['text_activity_address_edit']   = '<a href="customer_id=%d">%s</a> atualizou um endereço.';
-$_['text_activity_address_delete'] = '<a href="customer_id=%d">%s</a> apagou um endereço.';
+$_['text_activity_address_add']    = '<a href="customer_id=%d">%s</a> cadastrou um novo dirección.';
+$_['text_activity_address_edit']   = '<a href="customer_id=%d">%s</a> atualizou um dirección.';
+$_['text_activity_address_delete'] = '<a href="customer_id=%d">%s</a> apagou um dirección.';
 $_['text_activity_return_account'] = '<a href="customer_id=%d">%s</a> solicitou uma <a href="return_id=%d">devolução</a>.';
 $_['text_activity_return_guest']   = '%s solicitou uma <a href="return_id=%d">devolução</a>.';
 $_['text_activity_order_account']  = '<a href="customer_id=%d">%s</a> cadastrou um <a href="order_id=%d">novo pedido</a>.';
