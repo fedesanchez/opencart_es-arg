@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Gerador de links';
+$_['heading_title']    = 'Seguimiento de afiliados';
 
 // Text
-$_['text_account']     = 'Minha conta';
-$_['text_description'] = 'Para ter certeza que suas indicações vão ser registradas corretamente, gere os links para nossos produtos através do formulário abaixo:';
+$_['text_account']     = 'Cuenta';
+$_['text_description'] = 'Para asegurarnos de que le paguen por las referencias que nos envíe, debemos rastrear la referencia colocando un código de seguimiento en la URL que nos vincula. Puedes usar la herramienta que figura debajo para generar links a la web de %s .';
 
 // Entry
-$_['entry_code']       = 'Seu código de afiliação';
-$_['entry_generator']  = 'Digite o nome do produto';
-$_['entry_link']       = 'Link para divulgação';
+$_['entry_code']       = 'Su código de seguimiento';
+$_['entry_generator']  = 'Generador de links de seguimiento';
+$_['entry_link']       = 'Link para divulgar';
 
 // Help
-$_['help_generator']   = 'Digite o nome de um produto para gerar o link de divulgação.';
+$_['help_generator']   = 'Ingrese el nombre del producto al que te gustaría linkear.';

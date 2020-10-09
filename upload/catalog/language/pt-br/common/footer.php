@@ -1,17 +1,17 @@
 <?php
 // Text
-$_['text_information']  = 'Informações';
-$_['text_service']      = 'Serviços ao cliente';
-$_['text_extra']        = 'Outros serviços';
-$_['text_contact']      = 'Entre em contato';
-$_['text_return']       = 'Solicitar devolução';
-$_['text_sitemap']      = 'Mapa do site';
-$_['text_manufacturer'] = 'Produtos por marca';
-$_['text_voucher']      = 'Comprar vale presentes';
-$_['text_affiliate']    = 'Programa de afiliados';
-$_['text_special']      = 'Produtos em promoção';
-$_['text_account']      = 'Minha conta';
-$_['text_order']        = 'Histórico de pedidos';
-$_['text_wishlist']     = 'Lista de desejos';
-$_['text_newsletter']   = 'Informativo';
-$_['text_powered']      = 'Desenvolvido com tecnologia <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
+$_['text_information']  = 'Informaci&oacute;n';
+$_['text_service']      = 'Servicio al Cliente';
+$_['text_extra']        = 'Extras';
+$_['text_contact']      = 'Contacto';
+$_['text_return']       = 'Devoluciones';
+$_['text_sitemap']      = 'Mapa de sitio';
+$_['text_manufacturer'] = 'Marcas';
+$_['text_voucher']      = 'Vales de Regalo';
+$_['text_affiliate']    = 'Clientes';
+$_['text_special']      = 'Ofertas';
+$_['text_account']      = 'Mi Cuenta';
+$_['text_order']        = 'Historial de Pedidos';
+$_['text_wishlist']     = 'Lista de Deseos';
+$_['text_newsletter']   = 'Bolet&iacute;n Noticias';
+$_['text_powered']      = 'Creado con <a href="https://wuam.es">Dise&ntilde;o Web</a><br /> %s &copy; %s';

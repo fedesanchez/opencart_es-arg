@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']      = 'Endereços';
+$_['heading_title']      = 'Direcciones';
 
 // Text
-$_['text_account']       = 'Minha conta';
-$_['text_address_book']  = 'Lista de endereços';
-$_['text_address_add']   = 'Novo endereço';
-$_['text_address_edit']  = 'Editando endereço';
-$_['text_add']           = 'O endereço foi cadastrado.';
-$_['text_edit']          = 'O endereço foi atualizado.';
-$_['text_delete']        = 'O endereço foi excluído.';
-$_['text_empty']         = 'Você não possui endereços vinculados a sua conta.';
+$_['text_account']       = 'Mi cuenta';
+$_['text_address_book']  = 'Lista de direcciones';
+$_['text_address_add']   = 'Nueva dirección';
+$_['text_address_edit']  = 'Editando dirección';
+$_['text_add']           = 'La dirección fue registrada.';
+$_['text_edit']          = 'La dirección fue actualizada.';
+$_['text_delete']        = 'La dirección fue borrada.';
+$_['text_empty']         = 'Usted no tiene direcciónes en su cuenta.';
 
 // Entry
-$_['entry_firstname']    = 'Nome';
-$_['entry_lastname']     = 'Sobrenome';
-$_['entry_company']      = 'Referência';
-$_['entry_address_1']    = 'Endereço';
-$_['entry_address_2']    = 'Bairro';
-$_['entry_postcode']     = 'CEP';
-$_['entry_city']         = 'Cidade';
+$_['entry_firstname']    = 'Nombre';
+$_['entry_lastname']     = 'Apellido';
+$_['entry_company']      = 'Empresa';
+$_['entry_address_1']    = 'Dirección 1';
+$_['entry_address_2']    = 'Dirección 1';
+$_['entry_postcode']     = 'CP';
+$_['entry_city']         = 'Ciudad';
 $_['entry_country']      = 'País';
-$_['entry_zone']         = 'Estado';
-$_['entry_default']      = 'Endereço principal';
+$_['entry_zone']         = 'Región / Provincia';
+$_['entry_default']      = 'Dirección principal';
 
 // Error
-$_['error_delete']       = 'Atenção: Você deve ter pelo menos um endereço.';
-$_['error_default']      = 'Atenção: Você não pode apagar o seu endereço principal.';
-$_['error_firstname']    = 'O nome deve ter entre 2 e 32 caracteres.';
-$_['error_lastname']     = 'O sobrenome deve ter entre 2 e 32 caracteres.';
-$_['error_address_1']    = 'O endereço deve ter entre 3 e 128 caracteres.';
-$_['error_postcode']     = 'O CEP deve ter 8 caracteres.';
-$_['error_city']         = 'A cidade deve ter entre 2 e 128 caracteres.';
-$_['error_country']      = 'Selecione um país.';
-$_['error_zone']         = 'Selecione um estado.';
-$_['error_custom_field'] = 'O campo %s é obrigatório.';
+$_['error_delete']       = 'Advertencia: Usted debe tener al menos una dirección.';
+$_['error_default']      = 'Advertencia: Usted no puede borrar su dirección principal.';
+$_['error_firstname']    = 'El nombre debe tener entre 2 y 32 caracteres.';
+$_['error_lastname']     = 'El apellido debe tener entre 2 y 32 caracteres.';
+$_['error_address_1']    = 'La dirección debe tener entre 3 y 128 caracteres.';
+$_['error_postcode']     = 'El CP debe tener entre 2 y 10 caracteres.';
+$_['error_city']         = 'La ciudad debe tener entre 2 y 128 caracteres.';
+$_['error_country']      = 'Seleccione un país.';
+$_['error_zone']         = 'Seleccione una provincia.';
+$_['error_custom_field'] = 'El campo %s es obligatorio.';

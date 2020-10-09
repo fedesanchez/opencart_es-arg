@@ -1,16 +1,16 @@
 <?php
 // Text
-$_['text_success']           = 'O pedido foi modificado com sucesso.';
+$_['text_success']           = 'El pedido fue modificado con éxito.';
 
 // Error
-$_['error_permission']       = 'Atenção: Você não tem permissão para acessar a API.';
-$_['error_customer']         = 'Atenção: Os dados do cliente não foram informados.';
-$_['error_payment_address']  = 'Atenção: O endereço para fatura não foi informado.';
-$_['error_payment_method']   = 'Atenção: O método de pagamento não foi informado.';
-$_['error_no_payment']       = 'Atenção: Não há opções de pagamento disponíveis.';
-$_['error_shipping_address'] = 'Atenção: O endereço para entrega não foi informado.';
-$_['error_shipping_method']  = 'Atenção: O método de envio não foi informado.';
-$_['error_no_shipping']      = 'Atenção: Não há opções de frete disponíveis.';
-$_['error_stock']            = 'Atenção: Os produtos marcados com *** não estão disponíveis na quantia solicitada ou não encontram-se em estoque.';
-$_['error_minimum']          = 'Atenção: A quantidade mínima para %s é %s.';
-$_['error_not_found']        = 'Atenção: O pedido solicitado não foi encontrado.';
+$_['error_permission']       = 'Advertencia: Usted no tiene permiso para acceder a la API.';
+$_['error_customer']         = 'Advertencia: Se debe seleccionar un cliente.';
+$_['error_payment_address']  = 'Advertencia: La dirección de facturación es obligatoria.';
+$_['error_payment_method']   = 'Advertencia: El método de pago es obligatorio.';
+$_['error_no_payment']       = 'Advertencia: No hay opciones de pago disponibles.';
+$_['error_shipping_address'] = 'Advertencia: La dirección de entrega es obligatoria.';
+$_['error_shipping_method']  = 'Advertencia: El método de envío es obligatorio.';
+$_['error_no_shipping']      = 'Advertencia: No hay opciones de envío disponibles.';
+$_['error_stock']            = 'Advertencia: Los productos marcados con *** no están disponibles en la cantidad solicitada o no están en stock.';
+$_['error_minimum']          = 'Advertencia: La cantidad mínima para %s es %s.';
+$_['error_not_found']        = 'Advertencia: El pedido solicitado no fue encontrado.';

@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_success']     = 'Os pontos foram utilizados com sucesso.';
+$_['text_success']     = 'Los puntos fueron utilizados con éxito.';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão de acesso a API.';
-$_['error_reward']     = 'Atenção: Insira a quantidade de pontos que deseja utilizar.';
-$_['error_points']     = 'Atenção: Você não possui %s pontos.';
-$_['error_maximum']    = 'Atenção: O número máximo de pontos que pode ser utilizado é: %s.';
+$_['error_permission'] = 'Advertencia: usted no tiene permiso para acceder a la API.';
+$_['error_reward']     = 'Advertencia: Ingrese la cantidad de puntos que desea utilizar.';
+$_['error_points']     = 'Advertencia: Usted no tiene %s puntos.';
+$_['error_maximum']    = 'Advertencia: El número máximo de puntos que pude utilizar es: %s.';

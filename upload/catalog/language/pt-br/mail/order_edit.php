@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_subject']      = '%s - Atualização do Pedido nº %s';
+$_['text_subject']      = '%s - Actualización del Pedido nº %s';
 $_['text_order_id']     = 'Pedido nº:';
-$_['text_date_added']   = 'Atualizado em:';
-$_['text_order_status'] = 'Seu pedido foi atualizado para a seguinte situação:';
-$_['text_comment']      = 'O comentário para o seu pedido é:';
-$_['text_link']         = 'Para acompanhar o andamento do seu pedido, clique no link abaixo:';
-$_['text_footer']       = 'Caso tenha alguma dúvida, responda este e-mail.';
+$_['text_date_added']   = 'Actualizado en:';
+$_['text_order_status'] = 'Su pedido fue actualizado al siguiente estado:';
+$_['text_comment']      = 'Los comentarios para su pedido son:';
+$_['text_link']         = 'Para ver el pedido, click es el siguiente link:';
+$_['text_footer']       = 'En caso de alguna duda, responda este e-mail.';

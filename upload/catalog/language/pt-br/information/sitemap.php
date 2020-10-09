@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Mapa do site';
+$_['heading_title']    = 'Mapa del sitio';
 
 // Text
-$_['text_special']     = 'Produtos em promoção';
-$_['text_account']     = 'Minha conta';
-$_['text_edit']        = 'Detalhes da conta';
-$_['text_password']    = 'Modificar senha';
-$_['text_address']     = 'Endereços';
-$_['text_history']     = 'Histórico de pedidos';
-$_['text_download']    = 'Downloads';
-$_['text_cart']        = 'Carrinho de compras';
-$_['text_checkout']    = 'Finalizar pedido';
-$_['text_search']      = 'Busca';
-$_['text_information'] = 'Informações';
-$_['text_contact']     = 'Entre em contato';
+$_['text_special']     = 'Ofertas Especiales';
+$_['text_account']     = 'Mi Cuenta';
+$_['text_edit']        = 'Informaci&oacute;n de la Cuenta';
+$_['text_password']    = 'Contrase&ntilde;a';
+$_['text_address']     = 'Libro de Direcciones';
+$_['text_history']     = 'Hist&oacute;rico de Pedidos';
+$_['text_download']    = 'Descargas';
+$_['text_cart']        = 'Carrito de Compras';
+$_['text_checkout']    = 'Finalizar compra';
+$_['text_search']      = 'Buscar';
+$_['text_information'] = 'Informaci&oacute;n';
+$_['text_contact']     = 'Contacto';

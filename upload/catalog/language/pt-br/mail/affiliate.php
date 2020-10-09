@@ -1,17 +1,20 @@
 <?php
 // Text
-$_['text_subject']        = 'Programa de afiliados da loja %s';
-$_['text_welcome']        = 'Obrigado por se cadastrar no Programa de afiliados da loja %s.';
-$_['text_login']          = 'Sua conta foi cadastrada em nosso Programa de afiliados, agora você pode acessá-la utilizando seu e-mail e senha através da nossa loja:';
-$_['text_approval']       = 'Sua conta de afiliado precisa ser aprovada para que você possa acessar os dados de sua conta em nosso Programa de afiliados. Assim que sua conta for aprovada, você poderá acessar sua conta utilizando seu e-mail e sua senha através da nossa loja:';
-$_['text_service']        = 'Ao acessar sua conta de afiliado, você será capaz de gerar códigos de monitoramento, acompanhar os pagamentos de sua comissão, modificar as informações de sua conta e muito mais.';
-$_['text_thanks']         = 'Atenciosamente,';
-$_['text_new_affiliate']  = 'Novo afiliado';
-$_['text_signup']         = 'Dados do novo afiliado:';
-$_['text_website']        = 'Site:';
+$_['text_subject']        = '%s - Programa de Afiliados';
+$_['text_welcome']        = 'Gracias por unirse al Programa de afiliados de %s !';
+$_['text_login']          = 'Su cuenta ha sido creada y puede iniciar sesi&oacute;n utilizando su direcci&oacute;n de correo electr&oacute;nico y una contrase&ntilde;a al visitar nuestro sitio web o en la siguiente URL:';
+$_['text_approval']       = 'Su cuenta debe ser aprobada antes de que pueda iniciar sesi&oacute;n. Una vez aprobada, usted puede iniciar sesi&oacute;n utilizando su direcci&oacute;n de correo electr&oacute;nico y la contrase&ntilde;a por visitar nuestro sitio web o en la siguiente URL: ';
+$_['text_service']        = 'Al iniciar la sesi&oacute;n, usted ser&aacute; capaz de generar c&oacute;digos de seguimiento, los pagos de comisiones de pista y editar la informaci&oacute;n de su cuenta.';
+$_['text_thanks']         = 'Gracias,';
+$_['text_new_affiliate']  = 'Nuevo afiliado';
+$_['text_signup']         = 'Un nuevo afiliado se ha registrado:';
+$_['text_website']        = 'Web:';
 $_['text_customer_group'] = 'Tipo de cliente:';
-$_['text_firstname']      = 'Nome:';
-$_['text_lastname']       = 'Sobrenome:';
+$_['text_firstname']      = 'Nombre:';
+$_['text_lastname']       = 'apellido:';
 $_['text_company']        = 'Empresa:';
 $_['text_email']          = 'E-mail:';
-$_['text_telephone']      = 'Telefone:';
+$_['text_telephone']      = 'Teléfone:';
+
+// Button
+$_['button_login']        = 'Login';

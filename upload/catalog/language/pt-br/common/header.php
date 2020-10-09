@@ -1,16 +1,16 @@
 <?php
 // Text
-$_['text_home']          = 'Principal';
-$_['text_wishlist']      = 'Lista de desejos (%s)';
-$_['text_shopping_cart'] = 'Carrinho de compras';
-$_['text_category']      = 'Departamentos';
-$_['text_account']       = 'Minha conta';
-$_['text_register']      = 'Cadastre-se';
-$_['text_login']         = 'Acessar';
-$_['text_order']         = 'Histórico de pedidos';
-$_['text_transaction']   = 'Transações';
-$_['text_download']      = 'Downloads';
-$_['text_logout']        = 'Sair';
-$_['text_checkout']      = 'Finalizar pedido';
-$_['text_search']        = 'Busca';
-$_['text_all']           = 'Exibir';
+$_['text_home']          = 'Inicio';
+$_['text_wishlist']      = 'Lista de deseo (%s)';
+$_['text_shopping_cart'] = 'Carrito de Compras';
+$_['text_category']      = 'Categorías';
+$_['text_account']       = 'Mi Cuenta';
+$_['text_register']      = 'Registrarse';
+$_['text_login']         = 'Iniciar Sesi&oacute;n';
+$_['text_order']         = 'Historial de Pedidos';
+$_['text_transaction']   = 'Transacciones';
+$_['text_download']      = 'Descargas';
+$_['text_logout']        = 'Salir';
+$_['text_checkout']      = 'Finalizar compra';
+$_['text_search']        = 'Buscar';
+$_['text_all']           = 'Ver Todo';

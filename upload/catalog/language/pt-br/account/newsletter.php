@@ -1,11 +1,14 @@
 <?php
+
+// Decidimos que es mejor conservar la palabra "newsletter" en lugar de boletín por ejemplo
+
 // Heading
-$_['heading_title']    = 'Novidades, ofertas e promoções por e-mail';
+$_['heading_title']    = 'Suscribirse al Newsletter';
 
 // Text
-$_['text_account']     = 'Minha conta';
-$_['text_newsletter']  = 'Informativo';
-$_['text_success']     = 'A sua assinatura em nosso informativo foi modificada.';
+$_['text_account']     = 'Cuenta';
+$_['text_newsletter']  = 'Newsletter';
+$_['text_success']     = '&Eacute;xito: Su suscripci&oacute;n al newsletter se ha actualizado con &eacute;xito!.';
 
 // Entry
-$_['entry_newsletter'] = 'Deseja receber?';
+$_['entry_newsletter'] = 'Subscribir';

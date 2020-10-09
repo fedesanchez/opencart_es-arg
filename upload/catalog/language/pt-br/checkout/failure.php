@@ -1,16 +1,18 @@
 <?php
 // Heading
-$_['heading_title'] = 'Falha no pagamento.';
+$_['heading_title'] = 'Pago Fallido.';
 
 // Text
-$_['text_basket']   = 'Carrinho de compras';
+$_['text_basket']   = 'Carrito de compras';
 $_['text_checkout'] = 'Finalizar pedido';
-$_['text_failure']  = 'Falha no pagamento';
-$_['text_message']  = '<p>Houve um problema ao processar o seu pagamento, por isso, seu pedido não foi concluído.</p>
-<p>Possíveis causas:</p>
+$_['text_failure']  = 'Pago Fallido';
+$_['text_message']  = '<p>Hubo un problema al procesar su pago, por esto, su pedido no fue completado.</p>
+<p>Las razones posibles son:</p>
 <ul>
-  <li>Não a crédito suficiente.</li>
-  <li>Falha na verificação.</li>
+  <li>La insuficiencia de fondos</li>
+  <li>Fallo en la verificaci&oacute;n</li>
 </ul>
-<p>Você pode tentar novamente utilizando outra forma de pagamento.</p>
-<p>Se o problema persistir, entre em <a href="%s">contato</a> conosco e nos informe os detalhes do seu pedido.</p>';
+
+<p>Por favor, intente otra vez usando otro m&eacute;todo de pago.</p>
+
+<p>Si el problema persiste por favor <a href="%s">contáctenos</a> con los detalles del pedido que usted est&aacute; tratando de hacer.</p>';

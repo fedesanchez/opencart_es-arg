@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success'] = 'A sessão da API foi iniciada com sucesso.';
+$_['text_success'] = 'La sesión de la API fue iniciada con éxito.';
 
 // Error
-$_['error_key']    = 'Atenção: A chave de acesso da API não é válida.';
-$_['error_ip']     = 'Atenção: O seu IP %s não tem permissão para acessar a API.';
+$_['error_key']    = 'Advertencia: API Key no es válida.';
+$_['error_ip']     = 'Advertencia: Tu IP %s no tiene permiso para acceder a la API.';

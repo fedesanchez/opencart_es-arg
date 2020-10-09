@@ -1,8 +1,8 @@
 <?php
 // Heading
-$_['heading_title'] = 'Sair';
+$_['heading_title'] = 'Salir';
 
 // Text
-$_['text_message']  = '<p>Você saiu de sua conta. Esse é o método mais seguro para que ninguém acesse sua conta.</p> <p>O seu carrinho de compras foi salvo, os itens dentro dele serão restaurados assim que você acessar sua conta novamente.</p>';
-$_['text_account']  = 'Minha conta';
-$_['text_logout']   = 'Sair';
+$_['text_message']  = '<p>Ustede salió de su cuenta. Ahora es seguro dejar la computadora.</p> <p> Su carrito de compras fue guardado, los items serán restaurados cuando vuelva a ingresar a su cuenta.</p>';
+$_['text_account']  = 'Cuenta';
+$_['text_logout']   = 'Salir';

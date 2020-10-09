@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']     = 'Produtos para comparar';
+$_['heading_title']     = 'Comparaci&oacute;n de Producto';
 
 // Text
-$_['text_product']      = 'Detalhes';
-$_['text_name']         = 'Produto';
-$_['text_image']        = 'Imagem';
-$_['text_price']        = 'Preço';
+$_['text_product']      = 'Detalles del Producto';
+$_['text_name']         = 'Producto';
+$_['text_image']        = 'Imagen';
+$_['text_price']        = 'Precio';
 $_['text_model']        = 'Modelo';
 $_['text_manufacturer'] = 'Marca';
-$_['text_availability'] = 'Disponibilidade';
-$_['text_instock']      = 'Em estoque';
-$_['text_rating']       = 'Avaliação';
-$_['text_reviews']      = 'Baseada em %s cometários.';
-$_['text_summary']      = 'Resumo';
+$_['text_availability'] = 'Disponibilidad';
+$_['text_instock']      = 'En Stock';
+$_['text_rating']       = 'Clasificaci&oacute;n';
+$_['text_reviews']      = 'Basado en %s opiniones.';
+$_['text_summary']      = 'Resumen';
 $_['text_weight']       = 'Peso';
-$_['text_dimension']    = 'Dimensões (C x L x A)';
-$_['text_compare']      = 'Produtos para comparar (%s)';
-$_['text_success']      = 'Você adicionou o produto <a href="%s">%s</a> na lista de <a href="%s">produtos para comparar</a>.';
-$_['text_remove']       = 'Você modificou a lista de produtos para comparar.';
-$_['text_empty']        = 'Você não escolheu nenhum produto para comparar.';
+$_['text_dimension']    = 'Dimensiones (L x W x H)';
+$_['text_compare']      = 'Compare Producto (%s)';
+$_['text_success']      = '&Eacute;xito: Ha a&ntilde;adido <a href="%s">%s</a> a su <a href="%s">comparador</a>!';
+$_['text_remove']       = '&Eacute;xito: Ha modificado su comparaci&oacute;n de productos!';
+$_['text_empty']        = 'Usted no ha elegido ning&uacute;n producto para comparar.';

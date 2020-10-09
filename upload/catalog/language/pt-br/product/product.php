@@ -12,12 +12,12 @@ $_['text_tax']                 = 'Sem impostos:';
 $_['text_discount']            = ' ou mais ';
 $_['text_option']              = 'Opções disponíveis';
 $_['text_minimum']             = 'Quantidade mínima para compra: %s';
-$_['text_reviews']             = '%s comentários';
-$_['text_write']               = 'Escreva um comentário';
+$_['text_reviews']             = '%s comentarios';
+$_['text_write']               = 'Escreva um comentario';
 $_['text_login']               = 'Você deve <a href="%s">acessar</a> ou <a href="%s">cadastrar-se</a> para comentar.';
-$_['text_no_reviews']          = 'Não há comentários para este produto.';
+$_['text_no_reviews']          = 'Não há comentarios para este produto.';
 $_['text_note']                = '<span class="text-danger">Nota:</span> HTML não suportado.';
-$_['text_success']             = 'Obrigado por seu comentário. Ele foi enviado para aprovação.';
+$_['text_success']             = 'Obrigado por seu comentario. Ele foi enviado para aprovação.';
 $_['text_related']             = 'Produtos relacionados';
 $_['text_tags']                = 'Etiquetas:';
 $_['text_error']               = 'Produto não encontrado.';
@@ -34,7 +34,7 @@ $_['text_year']                = 'Anual';
 // Entry
 $_['entry_qty']                = 'Qtd';
 $_['entry_name']               = 'Seu nome';
-$_['entry_review']             = 'Seu comentário';
+$_['entry_review']             = 'Seu comentario';
 $_['entry_rating']             = 'Avaliação';
 $_['entry_good']               = 'Bom';
 $_['entry_bad']                = 'Ruim';
@@ -42,9 +42,9 @@ $_['entry_bad']                = 'Ruim';
 // Tabs
 $_['tab_description']          = 'Descrição';
 $_['tab_attribute']            = 'Especificação';
-$_['tab_review']               = 'Comentários (%s)';
+$_['tab_review']               = 'Comentarios (%s)';
 
 // Error
-$_['error_name']               = 'Atenção: Seu nome deve ter entre 3 e 25 caracteres.';
-$_['error_text']               = 'Atenção: Seu comentário deve ter entre 25 e 1000 caracteres.';
-$_['error_rating']             = 'Atenção: Faça a avaliação.';
+$_['error_name']               = 'Advertencia: Seu nome debe tener entre 3 e 25 caracteres.';
+$_['error_text']               = 'Advertencia: Seu comentario debe tener entre 25 e 1000 caracteres.';
+$_['error_rating']             = 'Advertencia: Faça a avaliação.';

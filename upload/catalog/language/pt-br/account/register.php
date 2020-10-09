@@ -1,33 +1,34 @@
 <?php
 // Heading
-$_['heading_title']        = 'Cadastre sua conta';
+$_['heading_title']        = 'Registrar cuenta';
 
 // Text
-$_['text_account']         = 'Minha conta';
-$_['text_register']        = 'Cadastre-se';
-$_['text_account_already'] = 'Se você já tem uma conta em nossa loja, acesse sua conta <a href="%s">clicando aqui</a>.';
-$_['text_your_details']    = 'Seus dados de contato';
-$_['text_newsletter']      = 'Novidades, ofertas e promoções por e-mail';
-$_['text_your_password']   = 'Sua senha de acesso';
-$_['text_agree']           = 'Eu li e concordo com o contrato de <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_account']         = 'Cuenta';
+$_['text_register']        = 'Registrar';
+$_['text_account_already'] = 'Si ya tiene una cuenta con nosotros, por favor entre en la p&aacute;gina de acceso <a href="%s"> </a>.';
+$_['text_your_details']    = 'Tus datos Personales';
+$_['text_newsletter']      = 'Bolet&iacute;n';
+$_['text_your_password']   = 'Su Contrase&ntilde;a';
+$_['text_agree']           = 'He le&iacute;do y estoy de acuerdo con el <a href="%s" class="agree"> <b>% s </ b> </a>';
+
 
 // Entry
-$_['entry_customer_group'] = 'Comprar como';
-$_['entry_firstname']      = 'Nome';
-$_['entry_lastname']       = 'Sobrenome';
-$_['entry_email']          = 'E-mail';
-$_['entry_telephone']      = 'Telefone';
-$_['entry_newsletter']     = 'Deseja receber?';
-$_['entry_password']       = 'Senha';
-$_['entry_confirm']        = 'Repetir a senha';
+$_['entry_customer_group'] = 'Tipo de Cliente';
+$_['entry_firstname']      = 'Nombre';
+$_['entry_lastname']       = 'Apellido';
+$_['entry_email']          = 'E-Mail';
+$_['entry_telephone']      = 'Tel&eacute;fono';
+$_['entry_newsletter']     = 'Subscribir';
+$_['entry_password']       = 'Contrase&ntilde;a';
+$_['entry_confirm']        = 'Confirma Contrase&ntilde;a';
 
 // Error
-$_['error_exists']         = 'Atenção: Este e-mail já está cadastrado.';
-$_['error_firstname']      = 'O nome deve ter entre 1 e 32 caracteres.';
-$_['error_lastname']       = 'O sobrenome deve ter entre 1 e 32 caracteres.';
-$_['error_email']          = 'O e-mail não é válido.';
-$_['error_telephone']      = 'O telefone deve ter entre 10 e 11 números.';
-$_['error_custom_field']   = 'O campo %s é obrigatório.';
-$_['error_password']       = 'A senha deve ter entre 4 e 20 caracteres.';
-$_['error_confirm']        = 'A senha repetida esta errada.';
-$_['error_agree']          = 'Atenção: Você deve aceitar o contrato de %s.';
+$_['error_exists']         = 'Advertencia: Direcci&oacute;n E-Mail ya est&aacute; registrado!';
+$_['error_firstname']      = 'El nombre debe tener entre 1 y 32 caracteres!';
+$_['error_lastname']       = 'El apellido debe tener entre 1 y 32 caracteres!';
+$_['error_email']          = 'E-Mail no parece ser v&aacute;lido!';
+$_['error_telephone']      = 'Tel&eacute;fono debe tener entre 3 y 32 caracteres!';
+$_['error_custom_field']   = 'El campo %s es necesario!';
+$_['error_password']       = 'La contrase&ntilde;a debe tener entre 4 y 20 caracteres!';
+$_['error_confirm']        = 'Confirmaci&oacute;n de la contrase&ntilde;a no coincide con la contrase&ntilde;a!';
+$_['error_agree']          = 'Advertencia: Usted debe aceptar el %s!';

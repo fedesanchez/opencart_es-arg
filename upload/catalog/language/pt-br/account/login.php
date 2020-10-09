@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']                = 'Acessar Conta';
+$_['heading_title']                = 'Ingresar a tu cuenta';
 
 // Text
-$_['text_account']                 = 'Minha conta';
-$_['text_login']                   = 'Acessar';
-$_['text_new_customer']            = 'Ainda não é cliente?';
-$_['text_register']                = 'Cadastre sua conta.';
-$_['text_register_account']        = 'Ao cadastrar sua conta, você será capaz de comprar mais rápido, ficar atualizado sobre a situação de um pedido e acompanhar o histórico dos pedidos que você já fez.';
-$_['text_returning_customer']      = 'Já é cliente?';
-$_['text_i_am_returning_customer'] = 'Se você já fez um pedido e cadastrou uma conta, coloque os dados da conta abaixo:';
-$_['text_forgotten']               = 'Solicitar nova senha';
+$_['text_account']                 = 'Mi Cuenta';
+$_['text_login']                   = 'Ingresar';
+$_['text_new_customer']            = 'Nuevo Cliente';
+$_['text_register']                = 'Registrar Cuenta.';
+$_['text_register_account']        = 'Al registrar su cuenta, usted podrá comprar mas rápido, estar actualizado sobre el estado de un pedido y poder ver el historial de pedidos ya hechos.';
+$_['text_returning_customer']      = 'Cliente que retorna';
+$_['text_i_am_returning_customer'] = 'Soy un cliente que retorna';
+$_['text_forgotten']               = 'Solicitar nueva contraseña';
 
 // Entry
 $_['entry_email']                  = 'E-mail';
-$_['entry_password']               = 'Senha';
+$_['entry_password']               = 'Contraseña';
 
 // Error
-$_['error_login']                  = 'Atenção: Seus dados de acesso não estão corretos. Se você tem certeza que o e-mail está correto, solicite uma nova senha.';
-$_['error_attempts']               = 'Atenção: Você excedeu o limite de tentativas de acesso. Por segurança, tente acessar novamente após 1 hora.';
-$_['error_approved']               = 'Atenção: Sua conta ainda não foi aprovada. Quando sua conta for aprovada, você receberá um e-mail de confirmação.';
+$_['error_login']                  = 'Advertencia: Sus datos de acceso no son correctos.';
+$_['error_attempts']               = 'Advertencia: Usted excedió el límite de intentos de acceso. Por favor, intente nuevamente en 1 hora.';
+$_['error_approved']               = 'Advertencia: Su cuenta no fue aprobada todavía.';
