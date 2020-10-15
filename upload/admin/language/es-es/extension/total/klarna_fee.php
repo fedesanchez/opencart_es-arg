@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Klarna Fee';
 
 // Text
-$_['text_extension']   = 'Extensões';
+$_['text_extension']   = 'Extensiones';
 $_['text_success']     = 'Klarna Fee modificada exitosamente!';
 $_['text_edit']        = 'Editando Klarna Fee';
 $_['text_sweden']      = 'Suécia';
@@ -21,4 +21,4 @@ $_['entry_status']     = 'Estado';
 $_['entry_sort_order'] = 'Ordenar por';
 
 // Error
-$_['error_permission'] = 'Advertencia: No tenés permisos para modificar a extensão Klarna Fee!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para modificar la extensión Klarna Fee!';

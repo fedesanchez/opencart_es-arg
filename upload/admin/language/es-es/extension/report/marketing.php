@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']    = 'Relatório de marketing';
+$_['heading_title']    = 'Reporte de marketing';
 
 // Text
-$_['text_extension']   = 'Extensões';
-$_['text_edit']        = 'Editando Relatório de marketing';
-$_['text_success']     = 'Relatório modificado exitosamente!';
+$_['text_extension']   = 'Extensiones';
+$_['text_edit']        = 'Editando Reporte de marketing';
+$_['text_success']     = 'Reporte modificado exitosamente!';
 $_['text_filter']      = 'Filtros';
-$_['text_all_status']  = 'Todos as situações';
+$_['text_all_status']  = 'Todos los estados';
 
 // Column
-$_['column_campaign']  = 'Campanha';
+$_['column_campaign']  = 'Campaña';
 $_['column_code']      = 'Código';
-$_['column_clicks']    = 'Cliques';
+$_['column_clicks']    = 'Clicks';
 $_['column_orders']    = 'Pedidos';
 $_['column_total']     = 'Total';
 
 // Entry
-$_['entry_date_start'] = 'Data inicial';
-$_['entry_date_end']   = 'Data final';
-$_['entry_status']     = 'Estado do pedido';
+$_['entry_date_start'] = 'Fecha desde';
+$_['entry_date_end']   = 'Fecha hasta';
+$_['entry_status']     = 'Estado del pedido';
 $_['entry_status']     = 'Estado';
 $_['entry_sort_order'] = 'Ordenar por';
 
 // Error
-$_['error_permission'] = 'Advertencia: No tenés permisos para modificar o relatório!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para modificar el reporte!';

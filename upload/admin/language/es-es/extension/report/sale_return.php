@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']     = 'Relatório de devoluções';
+$_['heading_title']     = 'Reporte de devoluciones';
 
 // Text
-$_['text_extension']    = 'Extensões';
-$_['text_edit']         = 'Editando Relatório de devoluções';
-$_['text_success']      = 'Relatório modificado exitosamente!';
+$_['text_extension']    = 'Extensiones';
+$_['text_edit']         = 'Editando Reporte de devoluciones';
+$_['text_success']      = 'Reporte modificado exitosamente!';
 $_['text_filter']       = 'Filtros';
-$_['text_year']         = 'Anos';
+$_['text_year']         = 'Años';
 $_['text_month']        = 'Meses';
 $_['text_week']         = 'Semanas';
-$_['text_day']          = 'Dias';
-$_['text_all_status']   = 'Todas as situações';
+$_['text_day']          = 'Días';
+$_['text_all_status']   = 'Todos los estados';
 
 // Column
-$_['column_date_start'] = 'Data inicial';
-$_['column_date_end']   = 'Data final';
-$_['column_returns']    = 'Devoluções';
+$_['column_date_start'] = 'Fecha desde';
+$_['column_date_end']   = 'Fecha hasta';
+$_['column_returns']    = 'devoluciones';
 
 // Entry
-$_['entry_date_start']  = 'Data inicial';
-$_['entry_date_end']    = 'Data final';
+$_['entry_date_start']  = 'Fecha desde';
+$_['entry_date_end']    = 'Fecha hasta';
 $_['entry_group']       = 'Agrupar por';
-$_['entry_status']      = 'Estado da devolução';
+$_['entry_status']      = 'Estado de la devolución';
 $_['entry_status']      = 'Estado';
 $_['entry_sort_order']  = 'Ordenar por';
 
 // Error
-$_['error_permission']  = 'Advertencia: No tenés permisos para modificar o relatório!';
+$_['error_permission']  = 'Advertencia: No tenés permisos para modificar el reporte!';

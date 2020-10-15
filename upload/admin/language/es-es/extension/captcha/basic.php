@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Captcha básico';
 
 // Text
-$_['text_extension']   = 'Extensões';
+$_['text_extension']   = 'Extensiones';
 $_['text_success']     = 'Captcha básico modificado exitosamente!';
 $_['text_edit']        = 'Editando Captcha básico';
 
@@ -11,4 +11,4 @@ $_['text_edit']        = 'Editando Captcha básico';
 $_['entry_status']     = 'Estado';
 
 // Error
-$_['error_permission'] = 'Advertencia: Você não possui permissão para modificar a extensão Captcha básico!';
+$_['error_permission'] = 'Advertencia: Você não possui permissão para modificar la extensión Captcha básico!';

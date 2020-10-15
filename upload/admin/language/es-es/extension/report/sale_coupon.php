@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']    = 'Relatório de cupons';
+$_['heading_title']    = 'Reporte de cupones';
 
 // Text
-$_['text_extension']   = 'Extensões';
-$_['text_edit']        = 'Editando Relatório de cupons';
-$_['text_success']     = 'Relatório modificado exitosamente!';
+$_['text_extension']   = 'Extensiones';
+$_['text_edit']        = 'Editando Reporte de cupones';
+$_['text_success']     = 'Reporte modificado exitosamente!';
 $_['text_filter']      = 'Filtros';
 
 // Column
-$_['column_name']      = 'Cupom';
+$_['column_name']      = 'Cupón';
 $_['column_code']      = 'Código';
 $_['column_orders']    = 'Pedidos';
 $_['column_total']     = 'Total';
 $_['column_action']    = 'Acci&oacute;n';
 
 // Entry
-$_['entry_date_start'] = 'Data inicial';
-$_['entry_date_end']   = 'Data final';
+$_['entry_date_start'] = 'Fecha desde';
+$_['entry_date_end']   = 'Fecha hasta';
 $_['entry_status']     = 'Estado';
 $_['entry_sort_order'] = 'Ordenar por';
 
 // Error
-$_['error_permission'] = 'Advertencia: No tenés permisos para modificar o relatório!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para modificar el reporte!';

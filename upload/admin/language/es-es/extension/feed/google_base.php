@@ -3,10 +3,10 @@
 $_['heading_title']          = 'Google Merchante Center';
 
 // Text
-$_['text_extension']         = 'Extensões';
+$_['text_extension']         = 'Extensiones';
 $_['text_success']           = 'Google Merchante Center modificado exitosamente!';
-$_['text_edit']              = 'Editando Google Merchante Center';
-$_['text_import']            = 'Para baixar a última lista de categorias <a href="https://support.google.com/merchants/answer/160081?hl=pt-br" target="_blank" class="alert-link">clique aqui</a> e escolha a taxonomia com IDs numéricos em archivo de texto simples (.txt). Depois carregue através do botão de importação.';
+$_['text_edit']              = 'Editar Google Merchante Center';
+$_['text_import']            = 'Para bajar la última lista de categorias <a href="https://support.google.com/merchants/answer/160081?hl=es-arg" target="_blank" class="alert-link">click aqui</a> y escoja la taxonomía con IDs numéricos en archivo de texto simples (.txt). Luego cargue por medio del botón de importación.';
 
 // Column
 $_['column_google_category'] = 'Categoria Google';
@@ -20,6 +20,6 @@ $_['entry_data_feed']        = 'URL';
 $_['entry_status']           = 'Estado';
 
 // Error
-$_['error_permission']       = 'Advertencia: Você não possui permissão para modificar a extensão Google Merchante Center!';
-$_['error_upload']           = 'El archivo não pôde ser carregado!';
-$_['error_filetype']         = 'O tipo de archivo é inválido!';
+$_['error_permission']       = 'Advertencia: No tenés permisos para modificar la extensión Google Merchante Center!';
+$_['error_upload']           = 'El archivo no puede ser cargado!';
+$_['error_filetype']         = 'El tipo de archivo es inválido!';

@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Menu do cliente';
+$_['heading_title']    = 'Menu de cliente';
 
 // Text
-$_['text_extension']   = 'Extensões';
-$_['text_success']     = 'Menu do cliente modificado exitosamente!';
-$_['text_edit']        = 'Editando Menu do cliente';
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Menu de cliente modificado exitosamente!';
+$_['text_edit']        = 'Editar Menu de cliente';
 
 // Entry
 $_['entry_status']     = 'Estado';
 
 // Error
-$_['error_permission'] = 'Advertencia: No tenés permisos para modificar a extensão Menu do cliente!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para modificar la extensión Menu de cliente!';

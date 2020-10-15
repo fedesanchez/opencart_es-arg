@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Pagamento na entrega';
 
 // Text
-$_['text_extension']     = 'Extensões';
+$_['text_extension']     = 'Extensiones';
 $_['text_success']       = 'Pagamento na entrega modificado exitosamente!';
 $_['text_edit']          = 'Editando Pagamento na entrega';
 
@@ -18,4 +18,4 @@ $_['entry_sort_order']   = 'Ordenar por';
 $_['help_total']         = 'O valor mínimo que o pedido deve alcançar para que esta opção de pagamento seja oferecida ao cliente.';
 
 // Error
-$_['error_permission']   = 'Advertencia: No tenés permisos para modificar a extensão Pagamento na entrega!';
+$_['error_permission']   = 'Advertencia: No tenés permisos para modificar la extensión Pagamento na entrega!';

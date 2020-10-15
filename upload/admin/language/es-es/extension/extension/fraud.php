@@ -12,4 +12,4 @@ $_['column_status']    = 'Estado';
 $_['column_action']    = 'Acci&oacute;n';
 
 // Error
-$_['error_permission'] = 'Advertencia: No tenés permisos para modificar as extensões do tipo antifraude!';
+$_['error_permission'] = 'Advertencia: No tenés permisos para modificar las extensiones de tipo Antifraude!';

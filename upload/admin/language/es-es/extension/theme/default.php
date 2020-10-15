@@ -3,7 +3,7 @@
 $_['heading_title']                    = 'Tema padrão';
 
 // Text
-$_['text_extension']                   = 'Extensões';
+$_['text_extension']                   = 'Extensiones';
 $_['text_success']                     = 'Tema padrão modificado exitosamente!';
 $_['text_edit']                        = 'Editando Tema padrão';
 $_['text_general']                     = 'Geral';
@@ -34,7 +34,7 @@ $_['help_product_limit']               = 'Determina quantos productos são exibi
 $_['help_product_description_length']  = 'É exibida no modo de visulização em lista (departamentos, promoções, etc.)';
 
 // Error
-$_['error_permission']                 = 'Advertencia: No tenés permisos para modificar a extensão Tema padrão!';
+$_['error_permission']                 = 'Advertencia: No tenés permisos para modificar la extensión Tema padrão!';
 $_['error_limit']                      = 'Limite de productos por página es obligatorio!';
 $_['error_image_thumb']                = 'Miniatura do producto es obligatorio!';
 $_['error_image_popup']                = 'No zoom da foto es obligatorio!';

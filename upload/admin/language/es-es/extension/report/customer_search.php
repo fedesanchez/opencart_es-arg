@@ -1,31 +1,31 @@
 <?php
 // Heading
-$_['heading_title']     = 'Reletório de palavras pesquisadas';
+$_['heading_title']     = 'Reporte de palabras buscadas';
 
 // Text
-$_['text_extension']    = 'Extensões';
-$_['text_edit']         = 'Editando Relatório de palavras pesquisadas';
-$_['text_success']      = 'Relatório modificado exitosamente!';
+$_['text_extension']    = 'Extensiones';
+$_['text_edit']         = 'Editando Reporte de palabras buscadas';
+$_['text_success']      = 'Reporte modificado exitosamente!';
 $_['text_filter']       = 'Filtros';
 $_['text_guest']        = 'Visitante';
 $_['text_customer']     = '<a href="%s">%s</a>';
 
 // Column
-$_['column_keyword']    = 'Palavra chave';
+$_['column_keyword']    = 'Palabra clave';
 $_['column_products']   = 'Productos encontrados';
-$_['column_category']   = 'Departamento';
+$_['column_category']   = 'Categoría';
 $_['column_customer']   = 'Cliente';
 $_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Data';
+$_['column_date_added'] = 'Fecha';
 
 // Entry
-$_['entry_date_start']  = 'Data inicial';
-$_['entry_date_end']    = 'Data final';
-$_['entry_keyword']     = 'Palavra chave';
+$_['entry_date_start']  = 'Fecha desde';
+$_['entry_date_end']    = 'Fecha hasta';
+$_['entry_keyword']     = 'Palabra clave';
 $_['entry_customer']    = 'Cliente';
 $_['entry_ip']          = 'IP';
 $_['entry_status']      = 'Estado';
 $_['entry_sort_order']  = 'Ordenar por';
 
 // Error
-$_['error_permission']  = 'Advertencia: No tenés permisos para modificar o relatório!';
+$_['error_permission']  = 'Advertencia: No tenés permisos para modificar el reporte!';
