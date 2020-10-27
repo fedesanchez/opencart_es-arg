@@ -9,13 +9,13 @@ $_['text_add']              = 'Nuevo usuario';
 $_['text_edit']             = 'Editar usuario';
 
 // Column
-$_['column_username']       = 'usuario';
+$_['column_username']       = 'Usuario';
 $_['column_status']         = 'Estado';
 $_['column_date_added']     = 'Fecha';
 $_['column_action']         = 'Acci&oacute;n';
 
 // Entry
-$_['entry_username']        = 'usuario';
+$_['entry_username']        = 'Usuario';
 $_['entry_user_group']      = 'Grupo de usuarios';
 $_['entry_password']        = 'Contraseña';
 $_['entry_confirm']         = 'Repetir a contraseña';

@@ -13,7 +13,7 @@ $_['text_amount'] = 'cantidad fija';
 // Column
 $_['column_name'] = 'Cup&oacute;n Nombre';
 $_['column_code'] = 'C&oacute;digo';
-$_['column_discount'] = 'descuento';
+$_['column_discount'] = 'Descuento';
 $_['column_date_start'] = 'Fecha de inicio';
 $_['column_date_end'] = 'Fecha Fin';
 $_['column_status'] = 'Estado';
@@ -27,7 +27,7 @@ $_['column_action'] = 'Acci&oacute;n';
 $_['entry_name'] = 'Cup&oacute;n Nombre';
 $_['entry_code'] = 'C&oacute;digo';
 $_['entry_type'] = 'Tipo';
-$_['entry_discount'] = 'descuento';
+$_['entry_discount'] = 'Descuento';
 $_['entry_logged'] = 'Cliente Login';
 $_['entry_shipping'] = 'Env&iacute;o Gratis';
 $_['entry_total'] = 'Monto total';
