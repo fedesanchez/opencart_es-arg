@@ -1,48 +1,48 @@
 <?php
 // Heading
-$_['heading_title']                    = 'Tema padrão';
+$_['heading_title']                    = 'Tema predeterminado';
 
 // Text
 $_['text_extension']                   = 'Extensiones';
-$_['text_success']                     = 'Tema padrão modificado exitosamente!';
-$_['text_edit']                        = 'Editando Tema padrão';
-$_['text_general']                     = 'Geral';
+$_['text_success']                     = 'Tema predeterminado modificado exitosamente!';
+$_['text_edit']                        = 'Editando Tema predeterminado';
+$_['text_general']                     = 'General';
 $_['text_product']                     = 'Productos';
-$_['text_image']                       = 'Imagens';
+$_['text_image']                       = 'Imagenes';
 
 // Entry
-$_['entry_directory']                  = 'Diretório do tema';
+$_['entry_directory']                  = 'Directorio de tema';
 $_['entry_status']                     = 'Estado';
-$_['entry_product_limit']              = 'Limite de productos por página';
-$_['entry_product_description_length'] = 'Tamanho da descrição do producto';
-$_['entry_image_category']             = 'Dos departamentos (L x A)';
-$_['entry_image_thumb']                = 'Miniatura do producto (L x A)';
-$_['entry_image_popup']                = 'No zoom da foto (L x A)';
-$_['entry_image_product']              = 'Foto principal do producto (L x A)';
-$_['entry_image_additional']           = 'Fotos adicionais do producto (L x A)';
-$_['entry_image_related']              = 'Nos productos relacionados (L x A)';
-$_['entry_image_compare']              = 'Na comparação (L x A)';
-$_['entry_image_wishlist']             = 'Na lista de desejos (L x A)';
-$_['entry_image_cart']                 = 'No carrinho (L x A)';
-$_['entry_image_location']             = 'Foto da loja (L x A)';
-$_['entry_width']                      = 'Largura';
+$_['entry_product_limit']              = 'Límite de productos por página';
+$_['entry_product_description_length'] = 'Tamaño de descripción de producto';
+$_['entry_image_category']             = 'Categoría (L x A)';
+$_['entry_image_thumb']                = 'Miniatura del producto (L x A)';
+$_['entry_image_popup']                = 'En zoom de imagen (L x AH)';
+$_['entry_image_product']              = 'Imagen principal del producto (L x A)';
+$_['entry_image_additional']           = 'Imágenes adicionales del producto (L x A)';
+$_['entry_image_related']              = 'En productos relacionados (L x A)';
+$_['entry_image_compare']              = 'En comparaciones (L x A)';
+$_['entry_image_wishlist']             = 'En lista de deseos (L x A)';
+$_['entry_image_cart']                 = 'En carrito (L x A)';
+$_['entry_image_location']             = 'Imagen de Tienda (L x A)';
+$_['entry_width']                      = 'Largo';
 $_['entry_height']                     = 'Altura';
 
 // Help
-$_['help_directory']                   = 'Este campo é apenas para habilitar a compatibilidade para temas antigos. Você pode definir o diretório do tema para utilizar as configurações de tamanho de imagem definidas aqui.';
-$_['help_product_limit']               = 'Determina quantos productos são exibidos por página (productos, departamentos, etc.)';
-$_['help_product_description_length']  = 'É exibida no modo de visulização em lista (departamentos, promoções, etc.)';
+$_['help_directory']                   = 'Este campo es apenas para habilitar la compatibilidad con temas antiguos. Usted puede definir el directorio de tema para utilizar las configuraciones de tamaño de imagem definidas aqui.';
+$_['help_product_limit']               = 'Determina cuantos productos se muestran por página (productos, categorías, etc.)';
+$_['help_product_description_length']  = 'Se muestra en modo de visulización de lista (categorías, promociones, etc.)';
 
 // Error
-$_['error_permission']                 = 'Advertencia: No tenés permisos para modificar la extensión Tema padrão!';
+$_['error_permission']                 = 'Advertencia: No tenés permisos para modificar la extensión Tema predeterminado!';
 $_['error_limit']                      = 'Limite de productos por página es obligatorio!';
-$_['error_image_thumb']                = 'Miniatura do producto es obligatorio!';
-$_['error_image_popup']                = 'No zoom da foto es obligatorio!';
-$_['error_image_product']              = 'Foto principal do producto es obligatorio!';
-$_['error_image_category']             = 'Dos departamentos es obligatorio!';
-$_['error_image_additional']           = 'Fotos adicionais do producto es obligatorio!';
-$_['error_image_related']              = 'Nos productos relacionados es obligatorio!';
-$_['error_image_compare']              = 'Na comparação es obligatorio!';
-$_['error_image_wishlist']             = 'Na lista de desejos es obligatorio!';
-$_['error_image_cart']                 = 'No carrinho es obligatorio!';
-$_['error_image_location']             = 'Foto da loja es obligatorio!';
+$_['error_image_thumb']                = 'Miniatura de producto es obligatorio!';
+$_['error_image_popup']                = 'En zoom de imagen es obligatorio!';
+$_['error_image_product']              = 'Imagen principal de producto es obligatorio!';
+$_['error_image_category']             = 'Categorías es obligatorio!';
+$_['error_image_additional']           = 'Imágenes adicionales del producto es obligatorio!';
+$_['error_image_related']              = 'En productos relacionados es obligatorio!';
+$_['error_image_compare']              = 'En comparación es obligatorio!';
+$_['error_image_wishlist']             = 'En lista de deseos es obligatorio!';
+$_['error_image_cart']                 = 'En carrito es obligatorio!';
+$_['error_image_location']             = 'Imagen de Tienda es obligatorio!';
